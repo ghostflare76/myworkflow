@@ -2,7 +2,7 @@ name: Scrape latest data
 
 on:
   schedule:
-    - cron:  '*/5 * * * *'
+    - cron:  '*/30 * * * *'
 
 jobs:
   scheduled:
@@ -12,17 +12,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-       curl  'https://api-goats.plaync.com/search/l2m/items?page=1&size=15&from_enchant_level=0&to_enchant_level=11&sale=true' \
-       'https://api-goats.plaync.com/search/l2m/items?page=2&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=3&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=4&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=5&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=6&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=7&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=8&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=9&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       'https://api-goats.plaync.com/search/l2m/items?page=10&size=15&from_enchant_level=0&to_enchant_level=11&sale=true'  \
-       -H 'Origin:https://lineage2m.plaync.com'   | jq . > price.json
+       curl  'https://api-goats.plaync.com/search/l2m/items?page=1&size=15&from_enchant_level=0&to_enchant_level=11&sale=true' -H 'Origin:https://lineage2m.plaync.com'   | jq . > price.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"

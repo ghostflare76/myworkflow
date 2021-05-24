@@ -169,14 +169,14 @@
       "favorite": false
     },
     {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 0,
+      "item_id": 100220003,
+      "item_name": "페리 엘",
+      "server_id": 132,
+      "server_name": "바이움02",
+      "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 85000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
+      "now_min_unit_price": 160000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20810,
-    "total": 312138
+    "last_page": 20808,
+    "total": 312119
   }
 }

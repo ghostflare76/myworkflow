@@ -171,8 +171,8 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 45,
-      "server_name": "에리카05",
+      "server_id": 130,
+      "server_name": "오필리아10",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20791,
-    "total": 311854
+    "last_page": 20789,
+    "total": 311821
   }
 }

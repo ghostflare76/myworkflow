@@ -15,8 +15,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 122,
-      "server_name": "오필리아02",
+      "server_id": 90,
+      "server_name": "드비안느10",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
@@ -27,8 +27,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 90,
-      "server_name": "드비안느10",
+      "server_id": 122,
+      "server_name": "오필리아02",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
@@ -99,6 +99,18 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 23,
+      "server_name": "카인03",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 150,
       "server_name": "안타라스10",
       "enchant_level": 7,
@@ -135,18 +147,6 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 100,
-      "server_name": "테온10",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 72000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 0,
@@ -159,24 +159,24 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 109,
-      "server_name": "에르휘나09",
+      "server_id": 100,
+      "server_name": "테온10",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 89000,
+      "now_min_unit_price": 72000,
       "avg_unit_price": 0,
       "favorite": false
     },
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 76,
-      "server_name": "아리아06",
+      "server_id": 25,
+      "server_name": "카인05",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 89000,
+      "now_min_unit_price": 85000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20732,
-    "total": 310976
+    "last_page": 20750,
+    "total": 311239
   }
 }

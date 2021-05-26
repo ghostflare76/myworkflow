@@ -15,8 +15,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 90,
-      "server_name": "드비안느10",
+      "server_id": 122,
+      "server_name": "오필리아02",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
@@ -27,8 +27,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 122,
-      "server_name": "오필리아02",
+      "server_id": 90,
+      "server_name": "드비안느10",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
@@ -171,8 +171,8 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 45,
-      "server_name": "에리카05",
+      "server_id": 130,
+      "server_name": "오필리아10",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20857,
-    "total": 312852
+    "last_page": 20859,
+    "total": 312875
   }
 }

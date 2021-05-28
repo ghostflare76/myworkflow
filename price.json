@@ -3,18 +3,6 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 116,
-      "server_name": "아이린06",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 155000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
       "server_id": 64,
       "server_name": "카스티엔04",
       "enchant_level": 7,
@@ -133,18 +121,6 @@
       "favorite": false
     },
     {
-      "item_id": 100220003,
-      "item_name": "페리 엘",
-      "server_id": 78,
-      "server_name": "아리아08",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 150000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100320001,
       "item_name": "나가스톰",
       "server_id": 71,
@@ -179,12 +155,36 @@
       "now_min_unit_price": 80000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
+      "server_id": 138,
+      "server_name": "바이움08",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 75000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
+      "server_id": 4,
+      "server_name": "바츠04",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 78000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20854,
-    "total": 312805
+    "last_page": 20835,
+    "total": 312515
   }
 }

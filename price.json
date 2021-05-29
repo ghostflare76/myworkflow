@@ -27,8 +27,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 39,
-      "server_name": "리오나09",
+      "server_id": 69,
+      "server_name": "카스티엔09",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
@@ -39,8 +39,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 69,
-      "server_name": "카스티엔09",
+      "server_id": 39,
+      "server_name": "리오나09",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
@@ -147,12 +147,12 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 131,
-      "server_name": "바이움01",
+      "server_id": 60,
+      "server_name": "거스틴10",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 100000,
+      "now_min_unit_price": 130000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20865,
-    "total": 312967
+    "last_page": 20898,
+    "total": 313469
   }
 }

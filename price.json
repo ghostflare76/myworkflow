@@ -157,26 +157,26 @@
       "favorite": false
     },
     {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 32,
-      "server_name": "리오나02",
+      "item_id": 100220001,
+      "item_name": "아스타로트",
+      "server_id": 42,
+      "server_name": "에리카02",
       "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 100000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 88000,
       "avg_unit_price": 0,
       "favorite": false
     },
     {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 150,
-      "server_name": "안타라스10",
-      "enchant_level": 7,
+      "item_id": 100220003,
+      "item_name": "페리 엘",
+      "server_id": 78,
+      "server_name": "아리아08",
+      "enchant_level": 0,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 220000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
+      "now_min_unit_price": 140000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21002,
-    "total": 315028
+    "last_page": 21008,
+    "total": 315118
   }
 }

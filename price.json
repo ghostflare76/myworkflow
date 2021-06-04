@@ -116,7 +116,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 78000,
+      "now_min_unit_price": 77000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -128,7 +128,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 80000,
+      "now_min_unit_price": 78000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20847,
-    "total": 312700
+    "last_page": 20880,
+    "total": 313200
   }
 }

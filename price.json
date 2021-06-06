@@ -135,8 +135,8 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 32,
-      "server_name": "리오나02",
+      "server_id": 126,
+      "server_name": "오필리아06",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
@@ -147,8 +147,8 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 126,
-      "server_name": "오필리아06",
+      "server_id": 32,
+      "server_name": "리오나02",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21103,
-    "total": 316541
+    "last_page": 21100,
+    "total": 316494
   }
 }

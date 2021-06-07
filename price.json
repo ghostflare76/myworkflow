@@ -135,6 +135,18 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 32,
+      "server_name": "리오나02",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 80000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 126,
       "server_name": "오필리아06",
       "enchant_level": 7,
@@ -147,13 +159,13 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 32,
-      "server_name": "리오나02",
+      "server_id": 55,
+      "server_name": "거스틴05",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 80000,
-      "avg_unit_price": 0,
+      "avg_unit_price": 80000,
       "favorite": false
     },
     {
@@ -167,24 +179,12 @@
       "now_min_unit_price": 85000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 72,
-      "server_name": "아리아02",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 85000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21150,
-    "total": 317239
+    "last_page": 21142,
+    "total": 317116
   }
 }

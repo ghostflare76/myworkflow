@@ -171,20 +171,20 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 32,
-      "server_name": "리오나02",
+      "server_id": 138,
+      "server_name": "바이움08",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 80000,
-      "avg_unit_price": 0,
+      "now_min_unit_price": 78000,
+      "avg_unit_price": 75000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21213,
-    "total": 318183
+    "last_page": 21204,
+    "total": 318053
   }
 }

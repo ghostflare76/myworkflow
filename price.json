@@ -99,24 +99,36 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 126,
-      "server_name": "오필리아06",
-      "enchant_level": 7,
+      "server_id": 87,
+      "server_name": "드비안느07",
+      "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 70000,
+      "now_min_unit_price": 75000,
       "avg_unit_price": 0,
       "favorite": false
     },
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 19,
-      "server_name": "지그하르트09",
+      "server_id": 141,
+      "server_name": "안타라스01",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 180000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 126,
+      "server_name": "오필리아06",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 73000,
+      "now_min_unit_price": 70000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -159,18 +171,6 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 44,
-      "server_name": "에리카04",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 83000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
       "server_id": 1,
       "server_name": "바츠01",
       "enchant_level": 7,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21157,
-    "total": 317355
+    "last_page": 21131,
+    "total": 316957
   }
 }

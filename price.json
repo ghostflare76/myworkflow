@@ -157,18 +157,6 @@
       "favorite": false
     },
     {
-      "item_id": 100320003,
-      "item_name": "다인슬라이프",
-      "server_id": 18,
-      "server_name": "지그하르트08",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_003.png",
-      "now_min_unit_price": 210000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100520001,
       "item_name": "임페리얼 스탭",
       "server_id": 78,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 70000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 19,
+      "server_name": "지그하르트09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 73000,
+      "avg_unit_price": 76001,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 15490,
-    "total": 232344
+    "last_page": 15474,
+    "total": 232103
   }
 }

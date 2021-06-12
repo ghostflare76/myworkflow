@@ -169,14 +169,14 @@
       "favorite": false
     },
     {
-      "item_id": 100420001,
-      "item_name": "드라코닉 보우",
-      "server_id": 105,
-      "server_name": "에르휘나05",
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 78,
+      "server_name": "아리아08",
       "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
-      "now_min_unit_price": 185000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 70000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 15646,
-    "total": 234682
+    "last_page": 15612,
+    "total": 234169
   }
 }

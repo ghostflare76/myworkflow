@@ -51,18 +51,6 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 66,
-      "server_name": "카스티엔06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 155000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
       "server_id": 63,
       "server_name": "카스티엔03",
       "enchant_level": 7,
@@ -171,6 +159,18 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
+      "server_id": 147,
+      "server_name": "안타라스07",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 141000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
       "server_id": 18,
       "server_name": "지그하르트08",
       "enchant_level": 7,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21491,
-    "total": 322353
+    "last_page": 21696,
+    "total": 325429
   }
 }

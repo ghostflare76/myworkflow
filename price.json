@@ -87,6 +87,18 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 68,
+      "server_name": "카스티엔08",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 65000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 19,
       "server_name": "지그하르트09",
       "enchant_level": 7,
@@ -106,18 +118,6 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 71000,
       "avg_unit_price": 75000,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 36,
-      "server_name": "리오나06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 74500,
-      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -171,12 +171,12 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 76,
-      "server_name": "아리아06",
+      "server_id": 18,
+      "server_name": "지그하르트08",
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 70000,
+      "now_min_unit_price": 68000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20929,
-    "total": 313932
+    "last_page": 20942,
+    "total": 314121
   }
 }

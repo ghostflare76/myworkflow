@@ -75,18 +75,6 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 80,
-      "server_name": "아리아10",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
       "server_id": 70,
       "server_name": "카스티엔10",
       "enchant_level": 7,
@@ -99,8 +87,20 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 53,
-      "server_name": "거스틴03",
+      "server_id": 80,
+      "server_name": "아리아10",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 78,
+      "server_name": "아리아08",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
@@ -111,8 +111,8 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 78,
-      "server_name": "아리아08",
+      "server_id": 53,
+      "server_name": "거스틴03",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21023,
-    "total": 315342
+    "last_page": 21038,
+    "total": 315564
   }
 }

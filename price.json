@@ -171,12 +171,12 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 78,
-      "server_name": "아리아08",
+      "server_id": 99,
+      "server_name": "테온09",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 67500,
+      "now_min_unit_price": 67000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21056,
-    "total": 315828
+    "last_page": 21072,
+    "total": 316076
   }
 }

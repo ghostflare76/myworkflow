@@ -171,12 +171,12 @@
     {
       "item_id": 100920001,
       "item_name": "페더아이 버스터",
-      "server_id": 30,
-      "server_name": "카인10",
-      "enchant_level": 10,
+      "server_id": 130,
+      "server_name": "오필리아10",
+      "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 800000,
+      "now_min_unit_price": 72000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20222,
-    "total": 303318
+    "last_page": 20228,
+    "total": 303411
   }
 }

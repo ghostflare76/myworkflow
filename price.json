@@ -27,18 +27,6 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 82,
-      "server_name": "드비안느02",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 69000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
       "server_id": 3,
       "server_name": "바츠03",
       "enchant_level": 7,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 120000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 96,
+      "server_name": "테온06",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 73000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20475,
-    "total": 307111
+    "last_page": 20395,
+    "total": 305917
   }
 }

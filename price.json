@@ -169,14 +169,14 @@
       "favorite": false
     },
     {
-      "item_id": 100520001,
-      "item_name": "임페리얼 스탭",
-      "server_id": 96,
-      "server_name": "테온06",
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
+      "server_id": 28,
+      "server_name": "카인08",
       "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
-      "now_min_unit_price": 73000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 120000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20405,
-    "total": 306066
+    "last_page": 20479,
+    "total": 307175
   }
 }

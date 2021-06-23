@@ -171,8 +171,8 @@
     {
       "item_id": 100320003,
       "item_name": "다인슬라이프",
-      "server_id": 46,
-      "server_name": "에리카06",
+      "server_id": 135,
+      "server_name": "바이움05",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_003.png",
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20676,
-    "total": 310131
+    "last_page": 20670,
+    "total": 310040
   }
 }

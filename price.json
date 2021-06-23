@@ -140,7 +140,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
-      "now_min_unit_price": 163000,
+      "now_min_unit_price": 160000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20479,
-    "total": 307175
+    "last_page": 20450,
+    "total": 306748
   }
 }

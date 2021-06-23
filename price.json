@@ -3,18 +3,6 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 12,
-      "server_name": "지그하르트02",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 124000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
       "server_id": 116,
       "server_name": "아이린06",
       "enchant_level": 5,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 73000,
       "avg_unit_price": 36850,
       "favorite": false
+    },
+    {
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 95000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20610,
-    "total": 309136
+    "last_page": 20594,
+    "total": 308897
   }
 }

@@ -99,13 +99,13 @@
     {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
-      "server_id": 57,
-      "server_name": "거스틴07",
+      "server_id": 109,
+      "server_name": "에르휘나09",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
       "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
+      "avg_unit_price": 70000,
       "favorite": false
     },
     {
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20282,
-    "total": 304218
+    "last_page": 20272,
+    "total": 304077
   }
 }

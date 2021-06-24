@@ -25,6 +25,18 @@
       "favorite": false
     },
     {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
+      "server_id": 3,
+      "server_name": "바츠03",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 69000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100320001,
       "item_name": "나가스톰",
       "server_id": 115,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 51,
-      "server_name": "거스틴01",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20282,
-    "total": 304220
+    "last_page": 20279,
+    "total": 304171
   }
 }

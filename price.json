@@ -27,6 +27,18 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 4,
+      "server_name": "바츠04",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 78,
       "server_name": "아리아08",
       "enchant_level": 7,
@@ -111,18 +123,6 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
-      "server_id": 16,
-      "server_name": "지그하르트06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 73500,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -142,18 +142,6 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
       "now_min_unit_price": 120000,
       "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100520001,
-      "item_name": "임페리얼 스탭",
-      "server_id": 20,
-      "server_name": "지그하르트10",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 50000,
       "favorite": false
     },
     {
@@ -179,12 +167,24 @@
       "now_min_unit_price": 170000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100620003,
+      "item_name": "세이크리디움",
+      "server_id": 43,
+      "server_name": "에리카03",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_003.png",
+      "now_min_unit_price": 127000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20360,
-    "total": 305396
+    "last_page": 20358,
+    "total": 305357
   }
 }

@@ -85,6 +85,18 @@
       "favorite": false
     },
     {
+      "item_id": 100420001,
+      "item_name": "드라코닉 보우",
+      "server_id": 139,
+      "server_name": "바이움09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
+      "now_min_unit_price": 160000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
       "server_id": 45,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 10,
-      "server_name": "바츠10",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20425,
-    "total": 306373
+    "last_page": 20445,
+    "total": 306666
   }
 }

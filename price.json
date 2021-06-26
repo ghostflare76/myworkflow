@@ -85,18 +85,6 @@
       "favorite": false
     },
     {
-      "item_id": 100420001,
-      "item_name": "드라코닉 보우",
-      "server_id": 139,
-      "server_name": "바이움09",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
-      "now_min_unit_price": 155000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
       "server_id": 44,
@@ -169,6 +157,18 @@
       "favorite": false
     },
     {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
+      "server_id": 66,
+      "server_name": "카스티엔06",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 67000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100720001,
       "item_name": "세인트 스피어",
       "server_id": 99,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20411,
-    "total": 306155
+    "last_page": 20417,
+    "total": 306255
   }
 }

@@ -123,18 +123,6 @@
     {
       "item_id": 100520001,
       "item_name": "임페리얼 스탭",
-      "server_id": 37,
-      "server_name": "리오나07",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100520001,
-      "item_name": "임페리얼 스탭",
       "server_id": 132,
       "server_name": "바이움02",
       "enchant_level": 7,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
+      "server_id": 57,
+      "server_name": "거스틴07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 62000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20417,
-    "total": 306255
+    "last_page": 20431,
+    "total": 306451
   }
 }

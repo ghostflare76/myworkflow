@@ -51,6 +51,18 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
+      "server_id": 115,
+      "server_name": "아이린05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 69000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -145,18 +157,6 @@
       "favorite": false
     },
     {
-      "item_id": 100620001,
-      "item_name": "아르카나 오브",
-      "server_id": 66,
-      "server_name": "카스티엔06",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
-      "now_min_unit_price": 67000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100720001,
       "item_name": "세인트 스피어",
       "server_id": 99,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20432,
-    "total": 306471
+    "last_page": 20445,
+    "total": 306674
   }
 }

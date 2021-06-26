@@ -3,6 +3,18 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
+      "server_id": 116,
+      "server_name": "아이린06",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 130000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
       "server_id": 77,
       "server_name": "아리아07",
       "enchant_level": 7,
@@ -33,18 +45,6 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
       "now_min_unit_price": 80000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 115,
-      "server_name": "아이린05",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 69800,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -87,18 +87,6 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
-      "server_id": 92,
-      "server_name": "테온02",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 69998,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -117,6 +105,18 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
       "now_min_unit_price": 120000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 37,
+      "server_name": "리오나07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 70000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -157,26 +157,26 @@
       "favorite": false
     },
     {
-      "item_id": 100620003,
-      "item_name": "세이크리디움",
-      "server_id": 43,
-      "server_name": "에리카03",
-      "enchant_level": 7,
+      "item_id": 100720001,
+      "item_name": "세인트 스피어",
+      "server_id": 99,
+      "server_name": "테온09",
+      "enchant_level": 5,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_003.png",
-      "now_min_unit_price": 127000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Spear_G2_001.png",
+      "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
     },
     {
-      "item_id": 100620003,
-      "item_name": "세이크리디움",
-      "server_id": 66,
-      "server_name": "카스티엔06",
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
+      "server_id": 10,
+      "server_name": "바츠10",
       "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_003.png",
-      "now_min_unit_price": 140000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20434,
-    "total": 306506
+    "last_page": 20438,
+    "total": 306561
   }
 }

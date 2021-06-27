@@ -111,18 +111,6 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
-      "server_id": 7,
-      "server_name": "바츠07",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 85000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -130,6 +118,18 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
       "now_min_unit_price": 95000,
       "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 99,
+      "server_name": "테온09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 75000,
+      "avg_unit_price": 60000,
       "favorite": false
     },
     {
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20399,
-    "total": 305976
+    "last_page": 20412,
+    "total": 306175
   }
 }

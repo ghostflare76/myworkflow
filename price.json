@@ -15,6 +15,18 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 4,
+      "server_name": "바츠04",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 53000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 78,
       "server_name": "아리아08",
       "enchant_level": 7,
@@ -97,18 +109,6 @@
       "favorite": false
     },
     {
-      "item_id": 100520001,
-      "item_name": "임페리얼 스탭",
-      "server_id": 99,
-      "server_name": "테온09",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
-      "now_min_unit_price": 75000,
-      "avg_unit_price": 60000,
-      "favorite": false
-    },
-    {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
       "server_id": 81,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20390,
-    "total": 305837
+    "last_page": 20384,
+    "total": 305748
   }
 }

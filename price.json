@@ -159,6 +159,18 @@
     {
       "item_id": 100920001,
       "item_name": "페더아이 버스터",
+      "server_id": 10,
+      "server_name": "바츠10",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 60000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
       "server_id": 57,
       "server_name": "거스틴07",
       "enchant_level": 7,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 62000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200120001,
-      "item_name": "임페리얼 크루세이더 흉갑",
-      "server_id": 63,
-      "server_name": "카스티엔03",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_003.png",
-      "now_min_unit_price": 62000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20460,
-    "total": 306892
+    "last_page": 20441,
+    "total": 306601
   }
 }

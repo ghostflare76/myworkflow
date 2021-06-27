@@ -73,18 +73,6 @@
       "favorite": false
     },
     {
-      "item_id": 100520001,
-      "item_name": "임페리얼 스탭",
-      "server_id": 21,
-      "server_name": "카인01",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
       "server_id": 81,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200220001,
+      "item_name": "임페리얼 크루세이더 각반",
+      "server_id": 63,
+      "server_name": "카스티엔03",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Pants_G2_001.png",
+      "now_min_unit_price": 65000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20452,
-    "total": 306773
+    "last_page": 20454,
+    "total": 306802
   }
 }

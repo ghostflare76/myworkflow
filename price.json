@@ -39,18 +39,6 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 80000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
       "server_id": 39,
       "server_name": "리오나09",
       "enchant_level": 7,
@@ -85,18 +73,6 @@
       "favorite": false
     },
     {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 95000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
       "server_id": 92,
@@ -111,12 +87,12 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
-      "server_id": 45,
-      "server_name": "에리카05",
+      "server_id": 86,
+      "server_name": "드비안느06",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 95000,
+      "now_min_unit_price": 80000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -179,12 +155,36 @@
       "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
+      "server_id": 57,
+      "server_name": "거스틴07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 62000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 200120001,
+      "item_name": "임페리얼 크루세이더 흉갑",
+      "server_id": 63,
+      "server_name": "카스티엔03",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_003.png",
+      "now_min_unit_price": 57000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20412,
-    "total": 306167
+    "last_page": 20390,
+    "total": 305839
   }
 }

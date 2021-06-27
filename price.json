@@ -15,6 +15,18 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 38,
+      "server_name": "리오나08",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 50000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 4,
       "server_name": "바츠04",
       "enchant_level": 7,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 57000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200120001,
-      "item_name": "임페리얼 크루세이더 흉갑",
-      "server_id": 96,
-      "server_name": "테온06",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_003.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20384,
-    "total": 305756
+    "last_page": 20400,
+    "total": 305999
   }
 }

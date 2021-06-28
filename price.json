@@ -97,18 +97,6 @@
       "favorite": false
     },
     {
-      "item_id": 100420001,
-      "item_name": "드라코닉 보우",
-      "server_id": 98,
-      "server_name": "테온08",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
-      "now_min_unit_price": 160000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
       "server_id": 92,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 72000,
       "avg_unit_price": 68000,
       "favorite": false
+    },
+    {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
+      "server_id": 7,
+      "server_name": "바츠07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 73000,
+      "avg_unit_price": 78000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20315,
-    "total": 304711
+    "last_page": 20255,
+    "total": 303813
   }
 }

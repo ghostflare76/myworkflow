@@ -13,6 +13,30 @@
       "favorite": false
     },
     {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 16,
+      "server_name": "지그하르트06",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 52000,
+      "avg_unit_price": 60000,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 80000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100320001,
       "item_name": "나가스톰",
       "server_id": 115,
@@ -37,6 +61,18 @@
       "favorite": false
     },
     {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 95000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
       "server_id": 92,
@@ -45,6 +81,18 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
       "now_min_unit_price": 65000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 95000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -58,6 +106,18 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
       "now_min_unit_price": 90000,
       "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
+      "server_id": 116,
+      "server_name": "아이린06",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 72000,
+      "avg_unit_price": 68000,
       "favorite": false
     },
     {
@@ -109,74 +169,14 @@
       "favorite": false
     },
     {
-      "item_id": 200120003,
-      "item_name": "드라코닉 레더 아머",
-      "server_id": 3,
-      "server_name": "바츠03",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200220002,
-      "item_name": "타락 천사의 각반",
-      "server_id": 54,
-      "server_name": "거스틴04",
+      "item_id": 200120002,
+      "item_name": "메이저 아르카나 로브",
+      "server_id": 45,
+      "server_name": "에리카05",
       "enchant_level": 5,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Pants_G2_002.png",
-      "now_min_unit_price": 150000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200320001,
-      "item_name": "드라코닉 레더 글로브",
-      "server_id": 81,
-      "server_name": "드비안느01",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
-      "now_min_unit_price": 59000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200320001,
-      "item_name": "드라코닉 레더 글로브",
-      "server_id": 23,
-      "server_name": "카인03",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200320001,
-      "item_name": "드라코닉 레더 글로브",
-      "server_id": 75,
-      "server_name": "아리아05",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200320003,
-      "item_name": "타락 천사의 장갑",
-      "server_id": 54,
-      "server_name": "거스틴04",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
-      "now_min_unit_price": 140000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
+      "now_min_unit_price": 75000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20419,
-    "total": 306283
+    "last_page": 20426,
+    "total": 306379
   }
 }

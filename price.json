@@ -25,6 +25,18 @@
       "favorite": false
     },
     {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 78,
+      "server_name": "아리아08",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 75000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100320001,
       "item_name": "나가스톰",
       "server_id": 45,
@@ -44,7 +56,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 69000,
+      "now_min_unit_price": 62000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -81,18 +93,6 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
       "now_min_unit_price": 160000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
-      "server_id": 92,
-      "server_name": "테온02",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -185,6 +185,6 @@
     "page": 1,
     "size": 15,
     "last_page": 20412,
-    "total": 306169
+    "total": 306173
   }
 }

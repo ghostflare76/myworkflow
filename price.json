@@ -61,18 +61,6 @@
       "favorite": false
     },
     {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
-      "server_id": 86,
-      "server_name": "드비안느06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 80000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
       "server_id": 81,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200320001,
+      "item_name": "드라코닉 레더 글로브",
+      "server_id": 75,
+      "server_name": "아리아05",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
+      "now_min_unit_price": 65000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20463,
-    "total": 306936
+    "last_page": 20458,
+    "total": 306863
   }
 }

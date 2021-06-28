@@ -75,6 +75,18 @@
     {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
+      "server_id": 149,
+      "server_name": "안타라스09",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 90000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
       "server_id": 73,
       "server_name": "아리아03",
       "enchant_level": 7,
@@ -121,6 +133,18 @@
       "favorite": false
     },
     {
+      "item_id": 200220002,
+      "item_name": "타락 천사의 각반",
+      "server_id": 54,
+      "server_name": "거스틴04",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Pants_G2_002.png",
+      "now_min_unit_price": 150000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 200320001,
       "item_name": "드라코닉 레더 글로브",
       "server_id": 81,
@@ -145,38 +169,14 @@
       "favorite": false
     },
     {
-      "item_id": 200420002,
-      "item_name": "사이하의 바람",
-      "server_id": 34,
-      "server_name": "리오나04",
+      "item_id": 200320003,
+      "item_name": "타락 천사의 장갑",
+      "server_id": 54,
+      "server_name": "거스틴04",
       "enchant_level": 5,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Boots_G2_002.png",
-      "now_min_unit_price": 59000,
-      "avg_unit_price": 61500,
-      "favorite": false
-    },
-    {
-      "item_id": 200420002,
-      "item_name": "사이하의 바람",
-      "server_id": 100,
-      "server_name": "테온10",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Boots_G2_002.png",
-      "now_min_unit_price": 69500,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200520004,
-      "item_name": "타락 천사의 투구",
-      "server_id": 34,
-      "server_name": "리오나04",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Helmet_G2_004.png",
-      "now_min_unit_price": 149000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
+      "now_min_unit_price": 140000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20459,
-    "total": 306882
+    "last_page": 20461,
+    "total": 306907
   }
 }

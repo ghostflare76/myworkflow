@@ -3,18 +3,6 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 116,
-      "server_name": "아이린06",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 130000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
       "server_id": 77,
       "server_name": "아리아07",
       "enchant_level": 7,
@@ -34,18 +22,6 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 80000,
       "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 16,
-      "server_name": "지그하르트06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 53000,
-      "avg_unit_price": 60000,
       "favorite": false
     },
     {
@@ -179,12 +155,36 @@
       "now_min_unit_price": 550000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
+      "server_id": 57,
+      "server_name": "거스틴07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 62000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100920002,
+      "item_name": "라바몬드 쏘우",
+      "server_id": 59,
+      "server_name": "거스틴09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_002.png",
+      "now_min_unit_price": 160000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20166,
-    "total": 302489
+    "last_page": 20135,
+    "total": 302020
   }
 }

@@ -37,18 +37,6 @@
       "favorite": false
     },
     {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 76,
-      "server_name": "아리아06",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100320001,
       "item_name": "나가스톰",
       "server_id": 45,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 68000,
       "avg_unit_price": 68000,
       "favorite": false
+    },
+    {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
+      "server_id": 7,
+      "server_name": "바츠07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 78000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20352,
-    "total": 305278
+    "last_page": 20379,
+    "total": 305682
   }
 }

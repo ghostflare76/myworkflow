@@ -63,24 +63,24 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 123,
-      "server_name": "오필리아03",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 75000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
       "now_min_unit_price": 95000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100420001,
+      "item_name": "드라코닉 보우",
+      "server_id": 98,
+      "server_name": "테온08",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
+      "now_min_unit_price": 150000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -165,7 +165,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
       "now_min_unit_price": 70000,
-      "avg_unit_price": 78000,
+      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20493,
-    "total": 307388
+    "last_page": 20505,
+    "total": 307567
   }
 }

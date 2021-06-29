@@ -13,6 +13,18 @@
       "favorite": false
     },
     {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 95,
+      "server_name": "테온05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 140000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100220001,
       "item_name": "아스타로트",
       "server_id": 76,
@@ -111,6 +123,18 @@
     {
       "item_id": 100520003,
       "item_name": "아스트라페",
+      "server_id": 16,
+      "server_name": "지그하르트06",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_003.png",
+      "now_min_unit_price": 130000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100520003,
+      "item_name": "아스트라페",
       "server_id": 56,
       "server_name": "거스틴06",
       "enchant_level": 7,
@@ -145,38 +169,14 @@
       "favorite": false
     },
     {
-      "item_id": 100620003,
-      "item_name": "세이크리디움",
-      "server_id": 93,
-      "server_name": "테온03",
-      "enchant_level": 9,
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
+      "server_id": 141,
+      "server_name": "안타라스01",
+      "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_003.png",
-      "now_min_unit_price": 550000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100820001,
-      "item_name": "루드커터 크로스보우",
-      "server_id": 78,
-      "server_name": "아리아08",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
-      "now_min_unit_price": 85000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100820001,
-      "item_name": "루드커터 크로스보우",
-      "server_id": 84,
-      "server_name": "드비안느04",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
-      "now_min_unit_price": 99999,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 130000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20204,
-    "total": 303060
+    "last_page": 20244,
+    "total": 303647
   }
 }

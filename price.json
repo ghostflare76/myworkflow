@@ -117,7 +117,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
       "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
+      "avg_unit_price": 52000,
       "favorite": false
     },
     {
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20740,
-    "total": 311094
+    "last_page": 20748,
+    "total": 311206
   }
 }

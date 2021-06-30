@@ -109,18 +109,6 @@
       "favorite": false
     },
     {
-      "item_id": 100520003,
-      "item_name": "아스트라페",
-      "server_id": 56,
-      "server_name": "거스틴06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_003.png",
-      "now_min_unit_price": 170000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
       "server_id": 109,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 70000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100920002,
+      "item_name": "라바몬드 쏘우",
+      "server_id": 117,
+      "server_name": "아이린07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_002.png",
+      "now_min_unit_price": 145000,
+      "avg_unit_price": 145000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20716,
-    "total": 310726
+    "last_page": 20723,
+    "total": 310843
   }
 }

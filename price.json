@@ -75,6 +75,18 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
+      "server_id": 35,
+      "server_name": "리오나05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 71500,
+      "favorite": false
+    },
+    {
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 64500,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200120001,
-      "item_name": "임페리얼 크루세이더 흉갑",
-      "server_id": 77,
-      "server_name": "아리아07",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_003.png",
-      "now_min_unit_price": 82000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20610,
-    "total": 309149
+    "last_page": 20606,
+    "total": 309090
   }
 }

@@ -87,6 +87,18 @@
     {
       "item_id": 100520001,
       "item_name": "임페리얼 스탭",
+      "server_id": 126,
+      "server_name": "오필리아06",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 60000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
       "server_id": 132,
       "server_name": "바이움02",
       "enchant_level": 7,
@@ -111,36 +123,12 @@
     {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
-      "server_id": 110,
-      "server_name": "에르휘나10",
+      "server_id": 97,
+      "server_name": "테온07",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100620001,
-      "item_name": "아르카나 오브",
-      "server_id": 7,
-      "server_name": "바츠07",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100620003,
-      "item_name": "세이크리디움",
-      "server_id": 139,
-      "server_name": "바이움09",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_003.png",
-      "now_min_unit_price": 150000,
+      "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -153,6 +141,18 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_003.png",
       "now_min_unit_price": 550000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100820001,
+      "item_name": "루드커터 크로스보우",
+      "server_id": 59,
+      "server_name": "거스틴09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
+      "now_min_unit_price": 75000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20586,
-    "total": 308781
+    "last_page": 20588,
+    "total": 308813
   }
 }

@@ -133,6 +133,18 @@
       "favorite": false
     },
     {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
+      "server_id": 109,
+      "server_name": "에르휘나09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 68000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100620003,
       "item_name": "세이크리디움",
       "server_id": 93,
@@ -157,18 +169,6 @@
       "favorite": false
     },
     {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 10,
-      "server_name": "바츠10",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 50000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100920002,
       "item_name": "라바몬드 쏘우",
       "server_id": 59,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20588,
-    "total": 308813
+    "last_page": 20600,
+    "total": 308992
   }
 }

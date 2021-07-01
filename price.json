@@ -63,18 +63,6 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
-      "server_id": 7,
-      "server_name": "바츠07",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 72000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 64500,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200120002,
+      "item_name": "메이저 아르카나 로브",
+      "server_id": 117,
+      "server_name": "아이린07",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
+      "now_min_unit_price": 48000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20681,
-    "total": 310209
+    "last_page": 20670,
+    "total": 310046
   }
 }

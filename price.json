@@ -3,36 +3,12 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 80000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
       "server_id": 115,
       "server_name": "아이린05",
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
       "now_min_unit_price": 62000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 95000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -49,18 +25,6 @@
       "favorite": false
     },
     {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 95000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100520001,
       "item_name": "임페리얼 스탭",
       "server_id": 12,
@@ -70,6 +34,18 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
       "now_min_unit_price": 60000,
       "avg_unit_price": 65000,
+      "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 21,
+      "server_name": "카인01",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 72000,
+      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -157,14 +133,14 @@
       "favorite": false
     },
     {
-      "item_id": 200120002,
-      "item_name": "메이저 아르카나 로브",
-      "server_id": 45,
-      "server_name": "에리카05",
+      "item_id": 200220001,
+      "item_name": "임페리얼 크루세이더 각반",
+      "server_id": 41,
+      "server_name": "에리카01",
       "enchant_level": 5,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
-      "now_min_unit_price": 75000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Pants_G2_001.png",
+      "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -179,12 +155,36 @@
       "now_min_unit_price": 134000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200320001,
+      "item_name": "드라코닉 레더 글로브",
+      "server_id": 102,
+      "server_name": "에르휘나02",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
+      "now_min_unit_price": 65000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 200320003,
+      "item_name": "타락 천사의 장갑",
+      "server_id": 97,
+      "server_name": "테온07",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
+      "now_min_unit_price": 145000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20619,
-    "total": 309276
+    "last_page": 20601,
+    "total": 309006
   }
 }

@@ -145,18 +145,6 @@
       "favorite": false
     },
     {
-      "item_id": 200120001,
-      "item_name": "임페리얼 크루세이더 흉갑",
-      "server_id": 96,
-      "server_name": "테온06",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_003.png",
-      "now_min_unit_price": 64500,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 200120002,
       "item_name": "메이저 아르카나 로브",
       "server_id": 117,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 75000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200220002,
+      "item_name": "타락 천사의 각반",
+      "server_id": 66,
+      "server_name": "카스티엔06",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Pants_G2_002.png",
+      "now_min_unit_price": 134000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20676,
-    "total": 310129
+    "last_page": 20661,
+    "total": 309905
   }
 }

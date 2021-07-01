@@ -1,18 +1,6 @@
 {
   "contents": [
     {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 115,
-      "server_name": "아이린05",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 62000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100420001,
       "item_name": "드라코닉 보우",
       "server_id": 98,
@@ -73,6 +61,18 @@
       "favorite": false
     },
     {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
+      "server_id": 143,
+      "server_name": "안타라스03",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 115000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100720001,
       "item_name": "세인트 스피어",
       "server_id": 99,
@@ -106,6 +106,18 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
       "now_min_unit_price": 70000,
       "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100920002,
+      "item_name": "라바몬드 쏘우",
+      "server_id": 117,
+      "server_name": "아이린07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_002.png",
+      "now_min_unit_price": 140000,
+      "avg_unit_price": 145000,
       "favorite": false
     },
     {
@@ -167,24 +179,12 @@
       "now_min_unit_price": 145000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200420001,
-      "item_name": "드라코닉 레더 부츠",
-      "server_id": 2,
-      "server_name": "바츠02",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Boots_G2_001.png",
-      "now_min_unit_price": 63000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20612,
-    "total": 309180
+    "last_page": 20576,
+    "total": 308630
   }
 }

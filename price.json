@@ -8,7 +8,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
-      "now_min_unit_price": 150000,
+      "now_min_unit_price": 148000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -145,18 +145,6 @@
       "favorite": false
     },
     {
-      "item_id": 200820004,
-      "item_name": "타락 천사의 시길",
-      "server_id": 98,
-      "server_name": "테온08",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Sigil_G2_004.png",
-      "now_min_unit_price": 125000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 300120004,
       "item_name": "대마법사의 목걸이",
       "server_id": 3,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 140000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 300320004,
+      "item_name": "다이너스티 링",
+      "server_id": 118,
+      "server_name": "아이린08",
+      "enchant_level": 4,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Ring_G2_004.png",
+      "now_min_unit_price": 130000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20595,
-    "total": 308912
+    "last_page": 20606,
+    "total": 309083
   }
 }

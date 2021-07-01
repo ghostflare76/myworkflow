@@ -13,6 +13,18 @@
       "favorite": false
     },
     {
+      "item_id": 100420001,
+      "item_name": "드라코닉 보우",
+      "server_id": 59,
+      "server_name": "거스틴09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
+      "now_min_unit_price": 170000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100520001,
       "item_name": "임페리얼 스탭",
       "server_id": 12,
@@ -123,6 +135,18 @@
     {
       "item_id": 100920002,
       "item_name": "라바몬드 쏘우",
+      "server_id": 47,
+      "server_name": "에리카07",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_002.png",
+      "now_min_unit_price": 150000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100920002,
+      "item_name": "라바몬드 쏘우",
       "server_id": 117,
       "server_name": "아이린07",
       "enchant_level": 7,
@@ -155,36 +179,12 @@
       "now_min_unit_price": 134000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200320001,
-      "item_name": "드라코닉 레더 글로브",
-      "server_id": 102,
-      "server_name": "에르휘나02",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200320003,
-      "item_name": "타락 천사의 장갑",
-      "server_id": 97,
-      "server_name": "테온07",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
-      "now_min_unit_price": 145000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20565,
-    "total": 308475
+    "last_page": 20558,
+    "total": 308367
   }
 }

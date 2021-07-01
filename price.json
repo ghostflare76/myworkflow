@@ -85,18 +85,6 @@
       "favorite": false
     },
     {
-      "item_id": 100920002,
-      "item_name": "라바몬드 쏘우",
-      "server_id": 47,
-      "server_name": "에리카07",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_002.png",
-      "now_min_unit_price": 150000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 200320001,
       "item_name": "드라코닉 레더 글로브",
       "server_id": 102,
@@ -105,18 +93,6 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
       "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200320003,
-      "item_name": "타락 천사의 장갑",
-      "server_id": 54,
-      "server_name": "거스틴04",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
-      "now_min_unit_price": 110000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -157,18 +133,6 @@
       "favorite": false
     },
     {
-      "item_id": 200420002,
-      "item_name": "사이하의 바람",
-      "server_id": 128,
-      "server_name": "오필리아08",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Boots_G2_002.png",
-      "now_min_unit_price": 58500,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 200520004,
       "item_name": "타락 천사의 투구",
       "server_id": 67,
@@ -179,12 +143,48 @@
       "now_min_unit_price": 150000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200820002,
+      "item_name": "드라코닉 시길",
+      "server_id": 54,
+      "server_name": "거스틴04",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Sigil_G2_002.png",
+      "now_min_unit_price": 50000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 200820004,
+      "item_name": "타락 천사의 시길",
+      "server_id": 98,
+      "server_name": "테온08",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Sigil_G2_004.png",
+      "now_min_unit_price": 125000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 300120004,
+      "item_name": "대마법사의 목걸이",
+      "server_id": 3,
+      "server_name": "바츠03",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Necklace_G2_004.png",
+      "now_min_unit_price": 200000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20547,
-    "total": 308198
+    "last_page": 20540,
+    "total": 308099
   }
 }

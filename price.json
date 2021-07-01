@@ -51,18 +51,6 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
-      "server_id": 35,
-      "server_name": "리오나05",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 71500,
-      "favorite": false
-    },
-    {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -147,18 +135,6 @@
     {
       "item_id": 200120001,
       "item_name": "임페리얼 크루세이더 흉갑",
-      "server_id": 66,
-      "server_name": "카스티엔06",
-      "enchant_level": 3,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_003.png",
-      "now_min_unit_price": 50000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 200120001,
-      "item_name": "임페리얼 크루세이더 흉갑",
       "server_id": 96,
       "server_name": "테온06",
       "enchant_level": 5,
@@ -179,12 +155,36 @@
       "now_min_unit_price": 48000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200120002,
+      "item_name": "메이저 아르카나 로브",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
+      "now_min_unit_price": 75000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 200320001,
+      "item_name": "드라코닉 레더 글로브",
+      "server_id": 102,
+      "server_name": "에르휘나02",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_001.png",
+      "now_min_unit_price": 65000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20666,
-    "total": 309990
+    "last_page": 20677,
+    "total": 310152
   }
 }

@@ -116,7 +116,7 @@
       "enchant_level": 5,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Boots_G2_001.png",
-      "now_min_unit_price": 63000,
+      "now_min_unit_price": 57000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -145,18 +145,6 @@
       "favorite": false
     },
     {
-      "item_id": 200820002,
-      "item_name": "드라코닉 시길",
-      "server_id": 54,
-      "server_name": "거스틴04",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Sigil_G2_002.png",
-      "now_min_unit_price": 50000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 200820004,
       "item_name": "타락 천사의 시길",
       "server_id": 98,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 200000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 300320003,
+      "item_name": "데스티노 링",
+      "server_id": 41,
+      "server_name": "에리카01",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Ring_G2_003.png",
+      "now_min_unit_price": 140000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20540,
-    "total": 308099
+    "last_page": 20552,
+    "total": 308280
   }
 }

@@ -133,18 +133,6 @@
       "favorite": false
     },
     {
-      "item_id": 300120004,
-      "item_name": "대마법사의 목걸이",
-      "server_id": 3,
-      "server_name": "바츠03",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Necklace_G2_004.png",
-      "now_min_unit_price": 200000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 300320003,
       "item_name": "데스티노 링",
       "server_id": 41,
@@ -169,6 +157,18 @@
       "favorite": false
     },
     {
+      "item_id": 300420001,
+      "item_name": "지배자의 권능",
+      "server_id": 35,
+      "server_name": "리오나05",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Belt_G2_001.png",
+      "now_min_unit_price": 75000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 500332005,
       "item_name": "암살 비급 (포이즌 익스플로전)",
       "server_id": 73,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20654,
-    "total": 309796
+    "last_page": 20643,
+    "total": 309643
   }
 }

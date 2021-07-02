@@ -27,6 +27,18 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
+      "server_id": 43,
+      "server_name": "에리카03",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -109,18 +121,6 @@
       "favorite": false
     },
     {
-      "item_id": 200320003,
-      "item_name": "타락 천사의 장갑",
-      "server_id": 97,
-      "server_name": "테온07",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
-      "now_min_unit_price": 145000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 200420001,
       "item_name": "드라코닉 레더 부츠",
       "server_id": 103,
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20627,
-    "total": 309405
+    "last_page": 20617,
+    "total": 309247
   }
 }

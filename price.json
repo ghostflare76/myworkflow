@@ -97,18 +97,6 @@
       "favorite": false
     },
     {
-      "item_id": 200320003,
-      "item_name": "타락 천사의 장갑",
-      "server_id": 97,
-      "server_name": "테온07",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
-      "now_min_unit_price": 145000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 200420001,
       "item_name": "드라코닉 레더 부츠",
       "server_id": 2,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 130000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 500332005,
+      "item_name": "암살 비급 (포이즌 익스플로전)",
+      "server_id": 73,
+      "server_name": "아리아03",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_Usable_SkillBook_Dagger_05.png",
+      "now_min_unit_price": 120000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20661,
-    "total": 309907
+    "last_page": 20665,
+    "total": 309969
   }
 }

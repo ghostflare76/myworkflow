@@ -145,14 +145,14 @@
       "favorite": false
     },
     {
-      "item_id": 200820004,
-      "item_name": "타락 천사의 시길",
-      "server_id": 76,
-      "server_name": "아리아06",
+      "item_id": 300120004,
+      "item_name": "대마법사의 목걸이",
+      "server_id": 11,
+      "server_name": "지그하르트01",
       "enchant_level": 0,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Sigil_G2_004.png",
-      "now_min_unit_price": 125000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Necklace_G2_004.png",
+      "now_min_unit_price": 190000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20635,
-    "total": 309514
+    "last_page": 20626,
+    "total": 309381
   }
 }

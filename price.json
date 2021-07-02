@@ -171,20 +171,20 @@
     {
       "item_id": 500720001,
       "item_name": "수스켑터의 코어",
-      "server_id": 20,
-      "server_name": "지그하르트10",
+      "server_id": 12,
+      "server_name": "지그하르트02",
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_Usable_giveitem_quest_lsusceptor.png",
-      "now_min_unit_price": 5.5,
-      "avg_unit_price": 11,
+      "now_min_unit_price": 48.6,
+      "avg_unit_price": 640,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20663,
-    "total": 309933
+    "last_page": 20654,
+    "total": 309809
   }
 }

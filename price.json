@@ -97,6 +97,18 @@
       "favorite": false
     },
     {
+      "item_id": 200320003,
+      "item_name": "타락 천사의 장갑",
+      "server_id": 97,
+      "server_name": "테온07",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Gloves_G2_003.png",
+      "now_min_unit_price": 145000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 200420001,
       "item_name": "드라코닉 레더 부츠",
       "server_id": 103,
@@ -105,6 +117,18 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Boots_G2_001.png",
       "now_min_unit_price": 68000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 200520002,
+      "item_name": "메이저 아르카나 서클릿",
+      "server_id": 11,
+      "server_name": "지그하르트01",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Helmet_G2_002.png",
+      "now_min_unit_price": 75000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -133,6 +157,18 @@
       "favorite": false
     },
     {
+      "item_id": 200820001,
+      "item_name": "티어 오브 다크니스",
+      "server_id": 64,
+      "server_name": "카스티엔04",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Sigil_G2_003.png",
+      "now_min_unit_price": 65000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 200820003,
       "item_name": "아르카나 시길",
       "server_id": 71,
@@ -143,48 +179,12 @@
       "now_min_unit_price": 62000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 300120004,
-      "item_name": "대마법사의 목걸이",
-      "server_id": 11,
-      "server_name": "지그하르트01",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Necklace_G2_004.png",
-      "now_min_unit_price": 190000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 300320003,
-      "item_name": "데스티노 링",
-      "server_id": 41,
-      "server_name": "에리카01",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Ring_G2_003.png",
-      "now_min_unit_price": 140000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 300420001,
-      "item_name": "지배자의 권능",
-      "server_id": 35,
-      "server_name": "리오나05",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Belt_G2_001.png",
-      "now_min_unit_price": 75000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20626,
-    "total": 309381
+    "last_page": 20640,
+    "total": 309590
   }
 }

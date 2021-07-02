@@ -1,6 +1,18 @@
 {
   "contents": [
     {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 25,
+      "server_name": "카인05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 54000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100420001,
       "item_name": "드라코닉 보우",
       "server_id": 98,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 140000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 300320004,
-      "item_name": "다이너스티 링",
-      "server_id": 118,
-      "server_name": "아이린08",
-      "enchant_level": 4,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Ring_G2_004.png",
-      "now_min_unit_price": 130000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20683,
-    "total": 310236
+    "last_page": 20673,
+    "total": 310088
   }
 }

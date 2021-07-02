@@ -1,6 +1,42 @@
 {
   "contents": [
     {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 75000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 85000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 85000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100520001,
       "item_name": "임페리얼 스탭",
       "server_id": 12,
@@ -143,48 +179,12 @@
       "now_min_unit_price": 62000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200820004,
-      "item_name": "타락 천사의 시길",
-      "server_id": 76,
-      "server_name": "아리아06",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Sigil_G2_004.png",
-      "now_min_unit_price": 125000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 300320003,
-      "item_name": "데스티노 링",
-      "server_id": 41,
-      "server_name": "에리카01",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Ring_G2_003.png",
-      "now_min_unit_price": 140000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 300320004,
-      "item_name": "다이너스티 링",
-      "server_id": 118,
-      "server_name": "아이린08",
-      "enchant_level": 4,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_ACC_Ring_G2_004.png",
-      "now_min_unit_price": 130000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20660,
-    "total": 309897
+    "last_page": 20646,
+    "total": 309682
   }
 }

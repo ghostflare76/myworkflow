@@ -13,6 +13,18 @@
       "favorite": false
     },
     {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 42,
+      "server_name": "에리카02",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 50000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100320001,
       "item_name": "나가스톰",
       "server_id": 45,
@@ -21,18 +33,6 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
       "now_min_unit_price": 75000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 43,
-      "server_name": "에리카03",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 70000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -109,14 +109,14 @@
       "favorite": false
     },
     {
-      "item_id": 100720001,
-      "item_name": "세인트 스피어",
-      "server_id": 99,
-      "server_name": "테온09",
+      "item_id": 100620003,
+      "item_name": "세이크리디움",
+      "server_id": 94,
+      "server_name": "테온04",
       "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Spear_G2_001.png",
-      "now_min_unit_price": 60000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_003.png",
+      "now_min_unit_price": 129000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -169,22 +169,22 @@
       "favorite": false
     },
     {
-      "item_id": 100920002,
-      "item_name": "라바몬드 쏘우",
-      "server_id": 117,
-      "server_name": "아이린07",
-      "enchant_level": 7,
+      "item_id": 200120002,
+      "item_name": "메이저 아르카나 로브",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 5,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_002.png",
-      "now_min_unit_price": 133000,
-      "avg_unit_price": 145000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 0,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20655,
-    "total": 309815
+    "last_page": 20637,
+    "total": 309546
   }
 }

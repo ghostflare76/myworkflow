@@ -87,6 +87,18 @@
     {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
+      "server_id": 119,
+      "server_name": "아이린09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 61000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
       "server_id": 80,
       "server_name": "아리아10",
       "enchant_level": 7,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 150000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200420001,
-      "item_name": "드라코닉 레더 부츠",
-      "server_id": 103,
-      "server_name": "에르휘나03",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Boots_G2_001.png",
-      "now_min_unit_price": 68000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20669,
-    "total": 310023
+    "last_page": 20684,
+    "total": 310258
   }
 }

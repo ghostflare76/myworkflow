@@ -1,6 +1,18 @@
 {
   "contents": [
     {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 7,
+      "server_name": "바츠07",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 100000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
       "server_id": 42,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200120002,
-      "item_name": "메이저 아르카나 로브",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20651,
-    "total": 309761
+    "last_page": 20682,
+    "total": 310223
   }
 }

@@ -61,6 +61,18 @@
       "favorite": false
     },
     {
+      "item_id": 100520003,
+      "item_name": "아스트라페",
+      "server_id": 117,
+      "server_name": "아이린07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_003.png",
+      "now_min_unit_price": 120000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
       "server_id": 4,
@@ -85,18 +97,6 @@
       "favorite": false
     },
     {
-      "item_id": 100620001,
-      "item_name": "아르카나 오브",
-      "server_id": 66,
-      "server_name": "카스티엔06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100720001,
       "item_name": "세인트 스피어",
       "server_id": 99,
@@ -105,6 +105,30 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Spear_G2_001.png",
       "now_min_unit_price": 60000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100720001,
+      "item_name": "세인트 스피어",
+      "server_id": 17,
+      "server_name": "지그하르트07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Spear_G2_001.png",
+      "now_min_unit_price": 60000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100820001,
+      "item_name": "루드커터 크로스보우",
+      "server_id": 70,
+      "server_name": "카스티엔10",
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
+      "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -155,36 +179,12 @@
       "now_min_unit_price": 57000,
       "avg_unit_price": 60000,
       "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 67,
-      "server_name": "카스티엔07",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 86,
-      "server_name": "드비안느06",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 60000,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20511,
-    "total": 307655
+    "last_page": 20573,
+    "total": 308592
   }
 }

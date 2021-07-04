@@ -111,18 +111,6 @@
     {
       "item_id": 100820001,
       "item_name": "루드커터 크로스보우",
-      "server_id": 18,
-      "server_name": "지그하르트08",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
-      "now_min_unit_price": 55000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100820001,
-      "item_name": "루드커터 크로스보우",
       "server_id": 37,
       "server_name": "리오나07",
       "enchant_level": 0,
@@ -141,18 +129,6 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
       "now_min_unit_price": 220000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 104,
-      "server_name": "에르휘나04",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 53000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -179,12 +155,36 @@
       "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 200120002,
+      "item_name": "메이저 아르카나 로브",
+      "server_id": 45,
+      "server_name": "에리카05",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 200120004,
+      "item_name": "타락 천사의 흉갑",
+      "server_id": 35,
+      "server_name": "리오나05",
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_004.png",
+      "now_min_unit_price": 150000,
+      "avg_unit_price": 140000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20631,
-    "total": 309452
+    "last_page": 20618,
+    "total": 309268
   }
 }

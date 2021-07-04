@@ -73,6 +73,18 @@
       "favorite": false
     },
     {
+      "item_id": 100420001,
+      "item_name": "드라코닉 보우",
+      "server_id": 124,
+      "server_name": "오필리아04",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_002.png",
+      "now_min_unit_price": 140000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
       "server_id": 45,
@@ -116,18 +128,6 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Spear_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100820001,
-      "item_name": "루드커터 크로스보우",
-      "server_id": 37,
-      "server_name": "리오나07",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
       "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20604,
-    "total": 309059
+    "last_page": 20597,
+    "total": 308954
   }
 }

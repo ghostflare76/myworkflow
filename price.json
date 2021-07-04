@@ -147,6 +147,18 @@
     {
       "item_id": 100920001,
       "item_name": "페더아이 버스터",
+      "server_id": 16,
+      "server_name": "지그하르트06",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 57000,
+      "avg_unit_price": 60000,
+      "favorite": false
+    },
+    {
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
       "server_id": 67,
       "server_name": "카스티엔07",
       "enchant_level": 7,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 65000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 200120002,
-      "item_name": "메이저 아르카나 로브",
-      "server_id": 45,
-      "server_name": "에리카05",
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_AR_Torso_G2_002.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20598,
-    "total": 308967
+    "last_page": 20604,
+    "total": 309059
   }
 }

@@ -75,6 +75,18 @@
     {
       "item_id": 100620001,
       "item_name": "아르카나 오브",
+      "server_id": 66,
+      "server_name": "카스티엔06",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
+      "now_min_unit_price": 62000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100620001,
+      "item_name": "아르카나 오브",
       "server_id": 16,
       "server_name": "지그하르트06",
       "enchant_level": 7,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 220000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 94,
-      "server_name": "테온04",
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 92000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20717,
-    "total": 310753
+    "last_page": 20725,
+    "total": 310869
   }
 }

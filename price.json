@@ -169,14 +169,14 @@
       "favorite": false
     },
     {
-      "item_id": 100820001,
-      "item_name": "루드커터 크로스보우",
-      "server_id": 21,
-      "server_name": "카인01",
-      "enchant_level": 0,
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
+      "server_id": 67,
+      "server_name": "카스티엔07",
+      "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Crossbow_G2_001.png",
-      "now_min_unit_price": 220000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20717,
-    "total": 310744
+    "last_page": 20707,
+    "total": 310603
   }
 }

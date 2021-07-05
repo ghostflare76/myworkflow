@@ -75,6 +75,18 @@
     {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
+      "server_id": 81,
+      "server_name": "드비안느01",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 59000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
       "server_id": 45,
       "server_name": "에리카05",
       "enchant_level": 7,
@@ -93,18 +105,6 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_003.png",
       "now_min_unit_price": 120000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100620001,
-      "item_name": "아르카나 오브",
-      "server_id": 57,
-      "server_name": "거스틴07",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Orb_G2_001.png",
-      "now_min_unit_price": 57000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20721,
-    "total": 310812
+    "last_page": 20729,
+    "total": 310935
   }
 }

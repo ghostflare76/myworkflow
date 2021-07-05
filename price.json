@@ -37,18 +37,6 @@
       "favorite": false
     },
     {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 94,
-      "server_name": "테온04",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 85000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100420002,
       "item_name": "샤이드 보우",
       "server_id": 81,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 220000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100920001,
+      "item_name": "페더아이 버스터",
+      "server_id": 67,
+      "server_name": "카스티엔07",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
+      "now_min_unit_price": 60000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20725,
-    "total": 310869
+    "last_page": 20719,
+    "total": 310785
   }
 }

@@ -15,6 +15,18 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
+      "server_id": 89,
+      "server_name": "드비안느09",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 55000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
       "server_id": 115,
       "server_name": "아이린05",
       "enchant_level": 7,
@@ -167,24 +179,12 @@
       "now_min_unit_price": 60000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
-      "server_id": 28,
-      "server_name": "카인08",
-      "enchant_level": 10,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 800000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20721,
-    "total": 310805
+    "last_page": 20722,
+    "total": 310822
   }
 }

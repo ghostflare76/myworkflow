@@ -37,14 +37,14 @@
       "favorite": false
     },
     {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 118,
-      "server_name": "아이린08",
-      "enchant_level": 7,
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
+      "server_id": 7,
+      "server_name": "바츠07",
+      "enchant_level": 0,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 65000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 59000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -184,7 +184,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20707,
-    "total": 310597
+    "last_page": 20694,
+    "total": 310408
   }
 }

@@ -147,18 +147,6 @@
     {
       "item_id": 100920001,
       "item_name": "페더아이 버스터",
-      "server_id": 67,
-      "server_name": "카스티엔07",
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_001.png",
-      "now_min_unit_price": 60000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100920001,
-      "item_name": "페더아이 버스터",
       "server_id": 133,
       "server_name": "바이움03",
       "enchant_level": 7,
@@ -179,12 +167,24 @@
       "now_min_unit_price": 800000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100920002,
+      "item_name": "라바몬드 쏘우",
+      "server_id": 130,
+      "server_name": "오필리아10",
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_GreatSword_G2_002.png",
+      "now_min_unit_price": 169999,
+      "avg_unit_price": 85000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20653,
-    "total": 309782
+    "last_page": 20630,
+    "total": 309443
   }
 }

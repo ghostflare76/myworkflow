@@ -16,8 +16,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1061,
-      "server_name": "카스티엔",
+      "server_id": 1021,
+      "server_name": "카인",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -29,8 +29,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1021,
-      "server_name": "카인",
+      "server_id": 1061,
+      "server_name": "카스티엔",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -107,19 +107,6 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 42000,
-      "avg_unit_price": 52000,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
       "server_id": 1061,
       "server_name": "카스티엔",
       "world": true,
@@ -191,7 +178,20 @@
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 39500,
+      "now_min_unit_price": 35000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
+      "server_id": 1051,
+      "server_name": "거스틴",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 47500,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20397,
-    "total": 305952
+    "last_page": 20407,
+    "total": 306093
   }
 }

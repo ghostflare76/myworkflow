@@ -16,8 +16,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1061,
-      "server_name": "카스티엔",
+      "server_id": 1021,
+      "server_name": "카인",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -29,8 +29,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1021,
-      "server_name": "카인",
+      "server_id": 1061,
+      "server_name": "카스티엔",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -61,7 +61,7 @@
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 42980,
+      "now_min_unit_price": 41000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20393,
-    "total": 305893
+    "last_page": 20385,
+    "total": 305775
   }
 }

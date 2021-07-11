@@ -1,19 +1,6 @@
 {
   "contents": [
     {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
-      "server_id": 1021,
-      "server_name": "카인",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 115000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
       "server_id": 1071,
@@ -76,19 +63,6 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
       "now_min_unit_price": 43000,
       "avg_unit_price": 42500,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 38,
-      "server_name": "리오나08",
-      "world": false,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -194,12 +168,38 @@
       "now_min_unit_price": 61000,
       "avg_unit_price": 57500,
       "favorite": false
+    },
+    {
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
+      "server_id": 103,
+      "server_name": "에르휘나03",
+      "world": false,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 63000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100420002,
+      "item_name": "샤이드 보우",
+      "server_id": 1041,
+      "server_name": "에리카",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
+      "now_min_unit_price": 65000,
+      "avg_unit_price": 59000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20101,
-    "total": 301511
+    "last_page": 20064,
+    "total": 300959
   }
 }

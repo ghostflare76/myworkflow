@@ -42,8 +42,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1021,
-      "server_name": "카인",
+      "server_id": 1051,
+      "server_name": "거스틴",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -55,8 +55,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1051,
-      "server_name": "거스틴",
+      "server_id": 1021,
+      "server_name": "카인",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -146,6 +146,19 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
+      "server_id": 1051,
+      "server_name": "거스틴",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 45000,
+      "avg_unit_price": 42500,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
       "server_id": 1021,
       "server_name": "카인",
       "world": true,
@@ -181,25 +194,12 @@
       "now_min_unit_price": 59000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 147,
-      "server_name": "안타라스07",
-      "world": false,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 70000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20155,
-    "total": 302320
+    "last_page": 20138,
+    "total": 302069
   }
 }

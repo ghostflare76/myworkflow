@@ -40,6 +40,19 @@
       "favorite": false
     },
     {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1121,
+      "server_name": "오필리아",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 110000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
       "server_id": 1051,
@@ -159,6 +172,19 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
+      "server_id": 1101,
+      "server_name": "에르휘나",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 43000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
       "server_id": 1041,
       "server_name": "에리카",
       "world": true,
@@ -168,38 +194,12 @@
       "now_min_unit_price": 47000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 65000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 1041,
-      "server_name": "에리카",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 45000,
-      "avg_unit_price": 55000,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19795,
-    "total": 296915
+    "last_page": 19788,
+    "total": 296817
   }
 }

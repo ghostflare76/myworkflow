@@ -79,19 +79,6 @@
       "favorite": false
     },
     {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 50,
-      "server_name": "에리카10",
-      "world": false,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 59999,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100220001,
       "item_name": "아스타로트",
       "server_id": 1001,
@@ -185,6 +172,19 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
+      "server_id": 1081,
+      "server_name": "드비안느",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 47500,
+      "avg_unit_price": 45500,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
       "server_id": 1051,
       "server_name": "거스틴",
       "world": true,
@@ -200,6 +200,6 @@
     "page": 1,
     "size": 15,
     "last_page": 19546,
-    "total": 293179
+    "total": 293181
   }
 }

@@ -133,9 +133,9 @@
     {
       "item_id": 100220003,
       "item_name": "페리 엘",
-      "server_id": 1051,
-      "server_name": "거스틴",
-      "world": true,
+      "server_id": 54,
+      "server_name": "거스틴04",
+      "world": false,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19425,
-    "total": 291361
+    "last_page": 19416,
+    "total": 291232
   }
 }

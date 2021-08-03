@@ -29,19 +29,6 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 45000,
-      "avg_unit_price": 45000,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
       "server_id": 1011,
       "server_name": "지그하르트",
       "world": true,
@@ -49,6 +36,19 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 48000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 1081,
+      "server_name": "드비안느",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 49500,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -118,19 +118,6 @@
       "favorite": false
     },
     {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 110000,
-      "avg_unit_price": 55000,
-      "favorite": false
-    },
-    {
       "item_id": 100320001,
       "item_name": "나가스톰",
       "server_id": 1021,
@@ -194,12 +181,25 @@
       "now_min_unit_price": 50000,
       "avg_unit_price": 50000,
       "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
+      "server_id": 1141,
+      "server_name": "안타라스",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 75000,
+      "avg_unit_price": 65000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19383,
-    "total": 290739
+    "last_page": 19391,
+    "total": 290865
   }
 }

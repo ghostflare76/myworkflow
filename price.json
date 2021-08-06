@@ -146,6 +146,19 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
+      "server_id": 1091,
+      "server_name": "테온",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
+      "now_min_unit_price": 44000,
+      "avg_unit_price": 48750,
+      "favorite": false
+    },
+    {
+      "item_id": 100320001,
+      "item_name": "나가스톰",
       "server_id": 1081,
       "server_name": "드비안느",
       "world": true,
@@ -181,25 +194,12 @@
       "now_min_unit_price": 58300,
       "avg_unit_price": 57500,
       "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 34,
-      "server_name": "리오나04",
-      "world": false,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 62000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19257,
-    "total": 288853
+    "last_page": 19261,
+    "total": 288913
   }
 }

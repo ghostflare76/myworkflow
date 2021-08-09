@@ -183,23 +183,23 @@
       "favorite": false
     },
     {
-      "item_id": 100220003,
-      "item_name": "페리 엘",
-      "server_id": 1071,
-      "server_name": "아리아",
+      "item_id": 100220001,
+      "item_name": "아스타로트",
+      "server_id": 1031,
+      "server_name": "리오나",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 8,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 100000,
-      "avg_unit_price": 0,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 70000,
+      "avg_unit_price": 70000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19467,
-    "total": 292004
+    "last_page": 19471,
+    "total": 292062
   }
 }

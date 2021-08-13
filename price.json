@@ -120,6 +120,19 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 1101,
+      "server_name": "에르휘나",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 57000,
+      "avg_unit_price": 47750,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 72,
       "server_name": "아리아02",
       "world": false,
@@ -181,25 +194,12 @@
       "now_min_unit_price": 100000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100220003,
-      "item_name": "페리 엘",
-      "server_id": 84,
-      "server_name": "드비안느04",
-      "world": false,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 119000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19417,
-    "total": 291241
+    "last_page": 19411,
+    "total": 291162
   }
 }

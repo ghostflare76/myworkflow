@@ -94,19 +94,6 @@
     {
       "item_id": 100320001,
       "item_name": "나가스톰",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 56000,
-      "avg_unit_price": 59150,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
       "server_id": 34,
       "server_name": "리오나04",
       "world": false,
@@ -194,12 +181,25 @@
       "now_min_unit_price": 65500,
       "avg_unit_price": 49999.5,
       "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 121,
+      "server_name": "오필리아01",
+      "world": false,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 80000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 16541,
-    "total": 248111
+    "last_page": 16509,
+    "total": 247632
   }
 }

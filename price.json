@@ -131,19 +131,6 @@
       "favorite": false
     },
     {
-      "item_id": 100420002,
-      "item_name": "샤이드 보우",
-      "server_id": 1121,
-      "server_name": "오필리아",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Bow_G2_001.png",
-      "now_min_unit_price": 55000,
-      "avg_unit_price": 48900,
-      "favorite": false
-    },
-    {
       "item_id": 100520001,
       "item_name": "임페리얼 스탭",
       "server_id": 1031,
@@ -194,12 +181,25 @@
       "now_min_unit_price": 80000,
       "avg_unit_price": 0,
       "favorite": false
+    },
+    {
+      "item_id": 100520001,
+      "item_name": "임페리얼 스탭",
+      "server_id": 1081,
+      "server_name": "드비안느",
+      "world": true,
+      "enchant_level": 9,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Staff_G2_001.png",
+      "now_min_unit_price": 199000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 16344,
-    "total": 245156
+    "last_page": 16323,
+    "total": 244837
   }
 }

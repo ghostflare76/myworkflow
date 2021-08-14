@@ -55,19 +55,6 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1091,
-      "server_name": "테온",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 55000,
-      "avg_unit_price": 45250,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
       "server_id": 1041,
       "server_name": "에리카",
       "world": true,
@@ -76,6 +63,19 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 55000,
       "avg_unit_price": 46500,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 1091,
+      "server_name": "테온",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 55000,
+      "avg_unit_price": 45250,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 16378,
-    "total": 245656
+    "last_page": 16363,
+    "total": 245434
   }
 }

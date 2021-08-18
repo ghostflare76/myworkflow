@@ -19,6 +19,19 @@
       "server_id": 1091,
       "server_name": "테온",
       "world": true,
+      "enchant_level": 5,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 50000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 1091,
+      "server_name": "테온",
+      "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
@@ -81,6 +94,19 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
+      "server_id": 30,
+      "server_name": "카인10",
+      "world": false,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 47000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
       "server_id": 1111,
       "server_name": "아이린",
       "world": true,
@@ -133,6 +159,19 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
+      "server_id": 1111,
+      "server_name": "아이린",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 48000,
+      "avg_unit_price": 47500,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
       "server_id": 1091,
       "server_name": "테온",
       "world": true,
@@ -155,51 +194,12 @@
       "now_min_unit_price": 85000,
       "avg_unit_price": 52000,
       "favorite": false
-    },
-    {
-      "item_id": 100220003,
-      "item_name": "페리 엘",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 160000,
-      "avg_unit_price": 130000,
-      "favorite": false
-    },
-    {
-      "item_id": 100220003,
-      "item_name": "페리 엘",
-      "server_id": 115,
-      "server_name": "아이린05",
-      "world": false,
-      "enchant_level": 11,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 1500000,
-      "avg_unit_price": 40000,
-      "favorite": false
-    },
-    {
-      "item_id": 100320001,
-      "item_name": "나가스톰",
-      "server_id": 1091,
-      "server_name": "테온",
-      "world": true,
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Dagger_G2_001.png",
-      "now_min_unit_price": 50000,
-      "avg_unit_price": 0,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18892,
-    "total": 283380
+    "last_page": 18901,
+    "total": 283508
   }
 }

@@ -133,14 +133,14 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1021,
-      "server_name": "카인",
-      "world": true,
+      "server_id": 21,
+      "server_name": "카인01",
+      "world": false,
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 48999,
-      "avg_unit_price": 48999,
+      "now_min_unit_price": 44999,
+      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19875,
-    "total": 298118
+    "last_page": 19893,
+    "total": 298384
   }
 }

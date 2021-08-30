@@ -62,7 +62,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 54000,
-      "avg_unit_price": 67500,
+      "avg_unit_price": 75000,
       "favorite": false
     },
     {
@@ -101,7 +101,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 51000,
-      "avg_unit_price": 45000,
+      "avg_unit_price": 44750,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19711,
-    "total": 295664
+    "last_page": 19701,
+    "total": 295512
   }
 }

@@ -40,6 +40,19 @@
       "favorite": false
     },
     {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1141,
+      "server_name": "안타라스",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 120000,
+      "avg_unit_price": 40000,
+      "favorite": false
+    },
+    {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
       "server_id": 1101,
@@ -133,19 +146,6 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1101,
-      "server_name": "에르휘나",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 45000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
       "server_id": 1091,
       "server_name": "테온",
       "world": true,
@@ -185,21 +185,21 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1051,
-      "server_name": "거스틴",
+      "server_id": 1131,
+      "server_name": "바이움",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 44000,
-      "avg_unit_price": 55000,
+      "now_min_unit_price": 45000,
+      "avg_unit_price": 44000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19582,
-    "total": 293716
+    "last_page": 19584,
+    "total": 293753
   }
 }

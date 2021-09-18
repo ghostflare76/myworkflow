@@ -178,28 +178,28 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 109000,
+      "now_min_unit_price": 105000,
       "avg_unit_price": 97000,
       "favorite": false
     },
     {
       "item_id": 100220003,
       "item_name": "페리 엘",
-      "server_id": 1101,
-      "server_name": "에르휘나",
+      "server_id": 1061,
+      "server_name": "카스티엔",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 115000,
-      "avg_unit_price": 104000,
+      "now_min_unit_price": 113000,
+      "avg_unit_price": 125000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19533,
-    "total": 292981
+    "last_page": 19523,
+    "total": 292831
   }
 }

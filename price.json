@@ -152,7 +152,7 @@
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 103000,
+      "now_min_unit_price": 105000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -185,21 +185,21 @@
     {
       "item_id": 100220003,
       "item_name": "페리 엘",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "server_id": 1051,
+      "server_name": "거스틴",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
       "now_min_unit_price": 110000,
-      "avg_unit_price": 100000,
+      "avg_unit_price": 97000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19070,
-    "total": 286042
+    "last_page": 19067,
+    "total": 285993
   }
 }

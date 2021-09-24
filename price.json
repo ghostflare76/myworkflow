@@ -159,14 +159,14 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1131,
-      "server_name": "바이움",
+      "server_id": 1021,
+      "server_name": "카인",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
       "now_min_unit_price": 45000,
-      "avg_unit_price": 44000,
+      "avg_unit_price": 46500,
       "favorite": false
     },
     {
@@ -185,21 +185,21 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1071,
-      "server_name": "아리아",
+      "server_id": 1131,
+      "server_name": "바이움",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 52000,
-      "avg_unit_price": 50000,
+      "now_min_unit_price": 50000,
+      "avg_unit_price": 44000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19377,
-    "total": 290654
+    "last_page": 19403,
+    "total": 291044
   }
 }

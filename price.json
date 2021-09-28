@@ -188,10 +188,10 @@
       "server_id": 1081,
       "server_name": "드비안느",
       "world": true,
-      "enchant_level": 5,
+      "enchant_level": 6,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 105000,
+      "now_min_unit_price": 104000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19568,
-    "total": 293506
+    "last_page": 19580,
+    "total": 293695
   }
 }

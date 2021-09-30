@@ -159,6 +159,19 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
+      "server_id": 1141,
+      "server_name": "안타라스",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 40000,
+      "avg_unit_price": 52000,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
       "server_id": 1031,
       "server_name": "리오나",
       "world": true,
@@ -172,26 +185,13 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1051,
-      "server_name": "거스틴",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 43000,
-      "avg_unit_price": 43500,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
       "server_id": 1111,
       "server_name": "아이린",
       "world": true,
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 44500,
+      "now_min_unit_price": 43000,
       "avg_unit_price": 46500,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19592,
-    "total": 293880
+    "last_page": 19574,
+    "total": 293607
   }
 }

@@ -1,11 +1,11 @@
 {
   "result": {
-    "timestamp": 1632969849356,
+    "timestamp": 1632970878943,
     "path": "/search/l2m/items",
     "status": 500,
     "error": "Internal Server Error",
     "message": "일시적으로 페이지를 불러올 수 없습니다.",
-    "requestId": "0b8adc38-2348289",
+    "requestId": "a1546ae4-2292028",
     "exception": "io.netty.resolver.dns.DnsResolveContext$SearchDomainUnknownHostException"
   }
 }

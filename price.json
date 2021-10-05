@@ -152,7 +152,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 40000,
+      "now_min_unit_price": 42000,
       "avg_unit_price": 45750,
       "favorite": false
     },
@@ -185,21 +185,21 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1011,
-      "server_name": "지그하르트",
+      "server_id": 1111,
+      "server_name": "아이린",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 50000,
-      "avg_unit_price": 44250,
+      "now_min_unit_price": 49000,
+      "avg_unit_price": 45900,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19603,
-    "total": 294041
+    "last_page": 19592,
+    "total": 293870
   }
 }

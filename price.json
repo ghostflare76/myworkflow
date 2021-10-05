@@ -29,22 +29,22 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "server_id": 1011,
+      "server_name": "지그하르트",
       "world": true,
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 42000,
-      "avg_unit_price": 41000,
+      "avg_unit_price": 0,
       "favorite": false
     },
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1011,
-      "server_name": "지그하르트",
-      "world": true,
+      "server_id": 93,
+      "server_name": "테온03",
+      "world": false,
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
@@ -79,16 +79,16 @@
       "favorite": false
     },
     {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "item_id": 100220001,
+      "item_name": "아스타로트",
+      "server_id": 1071,
+      "server_name": "아리아",
       "world": true,
-      "enchant_level": 9,
+      "enchant_level": 0,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 220000,
-      "avg_unit_price": 0,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 41000,
+      "avg_unit_price": 43500,
       "favorite": false
     },
     {
@@ -128,19 +128,6 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
       "now_min_unit_price": 42000,
       "avg_unit_price": 45750,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 1041,
-      "server_name": "에리카",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 45000,
-      "avg_unit_price": 45000,
       "favorite": false
     },
     {
@@ -194,12 +181,25 @@
       "now_min_unit_price": 55000,
       "avg_unit_price": 52000,
       "favorite": false
+    },
+    {
+      "item_id": 100220003,
+      "item_name": "페리 엘",
+      "server_id": 115,
+      "server_name": "아이린05",
+      "world": false,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
+      "now_min_unit_price": 100000,
+      "avg_unit_price": 0,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19601,
-    "total": 294006
+    "last_page": 19612,
+    "total": 294171
   }
 }

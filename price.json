@@ -35,7 +35,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 55000,
+      "now_min_unit_price": 53000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19423,
-    "total": 291335
+    "last_page": 19416,
+    "total": 291234
   }
 }

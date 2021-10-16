@@ -172,8 +172,8 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1011,
-      "server_name": "지그하르트",
+      "server_id": 1031,
+      "server_name": "리오나",
       "world": true,
       "enchant_level": 0,
       "grade": "legendary",
@@ -185,8 +185,8 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1031,
-      "server_name": "리오나",
+      "server_id": 1011,
+      "server_name": "지그하르트",
       "world": true,
       "enchant_level": 0,
       "grade": "legendary",
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19856,
-    "total": 297838
+    "last_page": 19859,
+    "total": 297872
   }
 }

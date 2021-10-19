@@ -192,7 +192,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
       "now_min_unit_price": 41000,
-      "avg_unit_price": 41000,
+      "avg_unit_price": 40750,
       "favorite": false
     }
   ],
@@ -200,6 +200,6 @@
     "page": 1,
     "size": 15,
     "last_page": 19945,
-    "total": 299172
+    "total": 299165
   }
 }

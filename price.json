@@ -133,6 +133,19 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
+      "server_id": 1111,
+      "server_name": "아이린",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 87000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
       "server_id": 92,
       "server_name": "테온02",
       "world": false,
@@ -140,19 +153,6 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
       "now_min_unit_price": 90000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
-      "server_id": 1111,
-      "server_name": "아이린",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 93000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -172,21 +172,21 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1021,
-      "server_name": "카인",
+      "server_id": 1001,
+      "server_name": "바츠",
       "world": true,
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 34500,
+      "now_min_unit_price": 35000,
       "avg_unit_price": 0,
       "favorite": false
     },
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "server_id": 1021,
+      "server_name": "카인",
       "world": true,
       "enchant_level": 0,
       "grade": "legendary",
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18936,
-    "total": 284029
+    "last_page": 18949,
+    "total": 284231
   }
 }

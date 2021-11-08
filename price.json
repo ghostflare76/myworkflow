@@ -183,15 +183,15 @@
       "favorite": false
     },
     {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 1111,
+      "server_name": "아이린",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 9,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 32000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 180000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18241,
-    "total": 273608
+    "last_page": 18269,
+    "total": 274022
   }
 }

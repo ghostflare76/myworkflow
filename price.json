@@ -118,19 +118,6 @@
       "favorite": false
     },
     {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
-      "server_id": 122,
-      "server_name": "오필리아02",
-      "world": false,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 80000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
       "server_id": 1141,
@@ -194,12 +181,25 @@
       "now_min_unit_price": 33500,
       "avg_unit_price": 41500,
       "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
+      "server_id": 1081,
+      "server_name": "드비안느",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 34000,
+      "avg_unit_price": 37000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18069,
-    "total": 271034
+    "last_page": 18077,
+    "total": 271141
   }
 }

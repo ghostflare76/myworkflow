@@ -185,9 +185,9 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 75,
-      "server_name": "아리아05",
-      "world": false,
+      "server_id": 1071,
+      "server_name": "아리아",
+      "world": true,
       "enchant_level": 5,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18140,
-    "total": 272089
+    "last_page": 18132,
+    "total": 271967
   }
 }

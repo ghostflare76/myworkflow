@@ -185,21 +185,21 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1011,
-      "server_name": "지그하르트",
+      "server_id": 1131,
+      "server_name": "바이움",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 78000,
-      "avg_unit_price": 79999,
+      "now_min_unit_price": 79999,
+      "avg_unit_price": 0,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18720,
-    "total": 280793
+    "last_page": 18710,
+    "total": 280638
   }
 }

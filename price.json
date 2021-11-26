@@ -185,13 +185,13 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1121,
-      "server_name": "오필리아",
+      "server_id": 1131,
+      "server_name": "바이움",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 79000,
+      "now_min_unit_price": 69999,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18992,
-    "total": 284880
+    "last_page": 18990,
+    "total": 284840
   }
 }

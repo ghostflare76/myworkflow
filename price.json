@@ -3,19 +3,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1041,
-      "server_name": "에리카",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 38000,
-      "avg_unit_price": 37999.5,
-      "favorite": false
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1101,
       "server_name": "에르휘나",
       "world": true,
@@ -24,6 +11,19 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 38000,
       "avg_unit_price": 40000,
+      "favorite": false
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1041,
+      "server_name": "에리카",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 38000,
+      "avg_unit_price": 37999.5,
       "favorite": false
     },
     {
@@ -133,6 +133,19 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
+      "server_id": 1071,
+      "server_name": "아리아",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 30500,
+      "avg_unit_price": 22000,
+      "favorite": false
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 1051,
       "server_name": "거스틴",
       "world": true,
@@ -181,25 +194,12 @@
       "now_min_unit_price": 27000,
       "avg_unit_price": 29000,
       "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 27000,
-      "avg_unit_price": 27999,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19561,
-    "total": 293406
+    "last_page": 19580,
+    "total": 293690
   }
 }

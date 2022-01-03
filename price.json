@@ -35,7 +35,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 37000,
+      "now_min_unit_price": 36000,
       "avg_unit_price": 33000,
       "favorite": false
     },
@@ -159,6 +159,19 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
+      "server_id": 1091,
+      "server_name": "테온",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 33000,
+      "avg_unit_price": 31900,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
       "server_id": 1011,
       "server_name": "지그하르트",
       "world": true,
@@ -181,25 +194,12 @@
       "now_min_unit_price": 88000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100220003,
-      "item_name": "페리 엘",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
-      "now_min_unit_price": 52000,
-      "avg_unit_price": 58500,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19207,
-    "total": 288104
+    "last_page": 19231,
+    "total": 288465
   }
 }

@@ -120,19 +120,6 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 28888,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
       "server_id": 45,
       "server_name": "에리카05",
       "world": false,
@@ -140,6 +127,19 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 33333,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100220001,
+      "item_name": "아스타로트",
+      "server_id": 1001,
+      "server_name": "바츠",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
+      "now_min_unit_price": 29000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -159,14 +159,14 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "server_id": 1131,
+      "server_name": "바이움",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 29000,
-      "avg_unit_price": 0,
+      "now_min_unit_price": 31000,
+      "avg_unit_price": 26500,
       "favorite": false
     },
     {
@@ -185,21 +185,21 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1131,
-      "server_name": "바이움",
-      "world": true,
-      "enchant_level": 7,
+      "server_id": 44,
+      "server_name": "에리카04",
+      "world": false,
+      "enchant_level": 9,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 31000,
-      "avg_unit_price": 26500,
+      "now_min_unit_price": 94000,
+      "avg_unit_price": 0,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19243,
-    "total": 288645
+    "last_page": 19252,
+    "total": 288768
   }
 }

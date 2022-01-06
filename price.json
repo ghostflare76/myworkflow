@@ -126,7 +126,7 @@
       "enchant_level": 5,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 29000,
+      "now_min_unit_price": 27500,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -146,13 +146,13 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1051,
-      "server_name": "거스틴",
+      "server_id": 1001,
+      "server_name": "바츠",
       "world": true,
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 24000,
+      "now_min_unit_price": 29000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -172,34 +172,34 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "server_id": 1021,
+      "server_name": "카인",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 29000,
-      "avg_unit_price": 0,
+      "now_min_unit_price": 31000,
+      "avg_unit_price": 29999,
       "favorite": false
     },
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1121,
-      "server_name": "오필리아",
+      "server_id": 1131,
+      "server_name": "바이움",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 26000,
-      "avg_unit_price": 27250,
+      "now_min_unit_price": 31000,
+      "avg_unit_price": 26500,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19191,
-    "total": 287865
+    "last_page": 19206,
+    "total": 288090
   }
 }

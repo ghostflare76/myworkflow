@@ -84,7 +84,7 @@
       "server_id": 1021,
       "server_name": "카인",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
       "now_min_unit_price": 69999,
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19328,
-    "total": 289920
+    "last_page": 19334,
+    "total": 289999
   }
 }

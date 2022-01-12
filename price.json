@@ -92,6 +92,19 @@
       "favorite": false
     },
     {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1021,
+      "server_name": "카인",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 57000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
       "server_id": 1021,
@@ -146,19 +159,6 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1121,
-      "server_name": "오필리아",
-      "world": true,
-      "enchant_level": 5,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 26000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
       "server_id": 1031,
       "server_name": "리오나",
       "world": true,
@@ -183,15 +183,15 @@
       "favorite": false
     },
     {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 1091,
-      "server_name": "테온",
+      "item_id": 100220003,
+      "item_name": "페리 엘",
+      "server_id": 1121,
+      "server_name": "오필리아",
       "world": true,
-      "enchant_level": 8,
+      "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 95000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
+      "now_min_unit_price": 55000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 18880,
-    "total": 283186
+    "last_page": 18855,
+    "total": 282824
   }
 }

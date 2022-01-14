@@ -22,7 +22,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 36500,
+      "now_min_unit_price": 36000,
       "avg_unit_price": 33000,
       "favorite": false
     },
@@ -81,19 +81,6 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1001,
-      "server_name": "바츠",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 63000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
       "server_id": 1011,
       "server_name": "지그하르트",
       "world": true,
@@ -102,6 +89,19 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
       "now_min_unit_price": 63000,
       "avg_unit_price": 62640,
+      "favorite": false
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1001,
+      "server_name": "바츠",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 63000,
+      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19385,
-    "total": 290767
+    "last_page": 19388,
+    "total": 290819
   }
 }

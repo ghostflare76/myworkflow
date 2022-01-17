@@ -183,15 +183,15 @@
       "favorite": false
     },
     {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
       "server_id": 1101,
       "server_name": "에르휘나",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 7,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 28000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 29999,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19502,
-    "total": 292529
+    "last_page": 19484,
+    "total": 292258
   }
 }

@@ -166,7 +166,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
       "now_min_unit_price": 26000,
-      "avg_unit_price": 29999,
+      "avg_unit_price": 28999.5,
       "favorite": false
     },
     {
@@ -179,7 +179,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
       "now_min_unit_price": 26000,
-      "avg_unit_price": 27000,
+      "avg_unit_price": 25000,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19855,
-    "total": 297814
+    "last_page": 19856,
+    "total": 297830
   }
 }

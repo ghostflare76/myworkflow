@@ -185,8 +185,8 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1111,
-      "server_name": "아이린",
+      "server_id": 1091,
+      "server_name": "테온",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 19691,
-    "total": 295357
+    "last_page": 19698,
+    "total": 295463
   }
 }

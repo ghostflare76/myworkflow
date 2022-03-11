@@ -81,8 +81,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1121,
-      "server_name": "오필리아",
+      "server_id": 1051,
+      "server_name": "거스틴",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -94,8 +94,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1051,
-      "server_name": "거스틴",
+      "server_id": 1121,
+      "server_name": "오필리아",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20704,
-    "total": 310547
+    "last_page": 20715,
+    "total": 310714
   }
 }

@@ -68,8 +68,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1011,
-      "server_name": "지그하르트",
+      "server_id": 1091,
+      "server_name": "테온",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -81,8 +81,8 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1091,
-      "server_name": "테온",
+      "server_id": 1011,
+      "server_name": "지그하르트",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
@@ -200,6 +200,6 @@
     "page": 1,
     "size": 15,
     "last_page": 20855,
-    "total": 312825
+    "total": 312820
   }
 }

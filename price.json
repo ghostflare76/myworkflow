@@ -133,32 +133,6 @@
     {
       "item_id": 100220001,
       "item_name": "아스타로트",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 28000,
-      "avg_unit_price": 26000,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
-      "server_id": 1061,
-      "server_name": "카스티엔",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_001.png",
-      "now_min_unit_price": 29999,
-      "avg_unit_price": 27500,
-      "favorite": false
-    },
-    {
-      "item_id": 100220001,
-      "item_name": "아스타로트",
       "server_id": 1101,
       "server_name": "에르휘나",
       "world": true,
@@ -194,12 +168,38 @@
       "now_min_unit_price": 120000,
       "avg_unit_price": 95000,
       "favorite": false
+    },
+    {
+      "item_id": 100220002,
+      "item_name": "다이너스티 듀얼 소드",
+      "server_id": 1091,
+      "server_name": "테온",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_002.png",
+      "now_min_unit_price": 155000,
+      "avg_unit_price": 0,
+      "favorite": false
+    },
+    {
+      "item_id": 100220003,
+      "item_name": "페리 엘",
+      "server_id": 1111,
+      "server_name": "아이린",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_DualWeapon_G2_003.png",
+      "now_min_unit_price": 61000,
+      "avg_unit_price": 55000,
+      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 20533,
-    "total": 307981
+    "last_page": 20559,
+    "total": 308379
   }
 }

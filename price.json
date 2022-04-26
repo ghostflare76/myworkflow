@@ -153,7 +153,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 24000,
-      "avg_unit_price": 22500,
+      "avg_unit_price": 22000,
       "favorite": false
     },
     {
@@ -200,6 +200,6 @@
     "page": 1,
     "size": 15,
     "last_page": 21409,
-    "total": 321135
+    "total": 321129
   }
 }

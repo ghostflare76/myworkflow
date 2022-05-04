@@ -178,7 +178,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 27777,
+      "now_min_unit_price": 24444,
       "avg_unit_price": 24000,
       "favorite": false
     },
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21375,
-    "total": 320614
+    "last_page": 21365,
+    "total": 320462
   }
 }

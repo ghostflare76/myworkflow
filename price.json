@@ -127,7 +127,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 42000,
-      "avg_unit_price": 31500,
+      "avg_unit_price": 31000,
       "favorite": false
     },
     {
@@ -192,14 +192,14 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 23333,
-      "avg_unit_price": 24000,
+      "avg_unit_price": 27000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21605,
-    "total": 324065
+    "last_page": 21604,
+    "total": 324057
   }
 }

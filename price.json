@@ -10,7 +10,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 25000,
-      "avg_unit_price": 20500,
+      "avg_unit_price": 21000,
       "favorite": false
     },
     {
@@ -101,7 +101,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 34500,
-      "avg_unit_price": 34500,
+      "avg_unit_price": 34700,
       "favorite": false
     },
     {
@@ -114,7 +114,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 34999,
-      "avg_unit_price": 31750,
+      "avg_unit_price": 32000,
       "favorite": false
     },
     {
@@ -166,7 +166,7 @@
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 20000,
-      "avg_unit_price": 0,
+      "avg_unit_price": 17000,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21661,
-    "total": 324906
+    "last_page": 21667,
+    "total": 325000
   }
 }

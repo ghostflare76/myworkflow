@@ -55,19 +55,6 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1131,
-      "server_name": "바이움",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 50000,
-      "avg_unit_price": 0,
-      "favorite": false
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
       "server_id": 1141,
       "server_name": "안타라스",
       "world": true,
@@ -115,6 +102,19 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
       "now_min_unit_price": 54000,
       "avg_unit_price": 50000,
+      "favorite": false
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1141,
+      "server_name": "안타라스",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 54999,
+      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21725,
-    "total": 325867
+    "last_page": 21747,
+    "total": 326200
   }
 }

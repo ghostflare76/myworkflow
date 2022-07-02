@@ -188,10 +188,10 @@
       "server_id": 1141,
       "server_name": "안타라스",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 47000,
+      "now_min_unit_price": 45000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21553,
-    "total": 323291
+    "last_page": 21560,
+    "total": 323392
   }
 }

@@ -170,16 +170,16 @@
       "favorite": false
     },
     {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1141,
+      "server_name": "안타라스",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 9,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 18000,
-      "avg_unit_price": 16000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 180000,
+      "avg_unit_price": 0,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 21918,
-    "total": 328765
+    "last_page": 21923,
+    "total": 328831
   }
 }

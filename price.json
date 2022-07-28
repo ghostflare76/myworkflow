@@ -23,7 +23,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 28700,
-      "avg_unit_price": 30900,
+      "avg_unit_price": 30250,
       "favorite": false
     },
     {
@@ -75,7 +75,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 29999,
-      "avg_unit_price": 31000,
+      "avg_unit_price": 30950,
       "favorite": false
     },
     {
@@ -101,7 +101,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 30000,
-      "avg_unit_price": 31749.5,
+      "avg_unit_price": 31999,
       "favorite": false
     },
     {
@@ -140,7 +140,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 31500,
-      "avg_unit_price": 31055.5,
+      "avg_unit_price": 31250,
       "favorite": false
     },
     {
@@ -166,7 +166,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 32000,
-      "avg_unit_price": 31450,
+      "avg_unit_price": 31400,
       "favorite": false
     },
     {
@@ -179,7 +179,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 33900,
-      "avg_unit_price": 35000,
+      "avg_unit_price": 34000,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 22809,
-    "total": 342129
+    "last_page": 22817,
+    "total": 342245
   }
 }

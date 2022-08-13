@@ -3,8 +3,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1021,
-      "server_name": "카인",
+      "server_id": 1051,
+      "server_name": "거스틴",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
@@ -16,8 +16,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1051,
-      "server_name": "거스틴",
+      "server_id": 1021,
+      "server_name": "카인",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 22001,
-    "total": 330003
+    "last_page": 21985,
+    "total": 329761
   }
 }

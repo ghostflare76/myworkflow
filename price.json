@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 22007,
-    "total": 330093
+    "last_page": 22000,
+    "total": 329990
   }
 }

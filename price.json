@@ -10,7 +10,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 26000,
-      "avg_unit_price": 28250,
+      "avg_unit_price": 28000,
       "favorite": false
     },
     {
@@ -55,19 +55,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1061,
-      "server_name": "카스티엔",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 30000,
-      "avg_unit_price": 30000,
-      "favorite": false
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1011,
       "server_name": "지그하르트",
       "world": true,
@@ -81,6 +68,19 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1061,
+      "server_name": "카스티엔",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 30000,
+      "avg_unit_price": 30000,
+      "favorite": false
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1071,
       "server_name": "아리아",
       "world": true,
@@ -88,7 +88,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 30000,
-      "avg_unit_price": 29994,
+      "avg_unit_price": 30000,
       "favorite": false
     },
     {
@@ -101,7 +101,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 30000,
-      "avg_unit_price": 29850,
+      "avg_unit_price": 29949.5,
       "favorite": false
     },
     {
@@ -127,7 +127,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 30500,
-      "avg_unit_price": 30750,
+      "avg_unit_price": 31000,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 22314,
-    "total": 334710
+    "last_page": 22317,
+    "total": 334754
   }
 }

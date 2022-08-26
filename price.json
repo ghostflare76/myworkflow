@@ -87,7 +87,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 30000,
+      "now_min_unit_price": 29500,
       "avg_unit_price": 28000,
       "favorite": false
     },
@@ -185,21 +185,21 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1141,
-      "server_name": "안타라스",
+      "server_id": 1121,
+      "server_name": "오필리아",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 39700,
-      "avg_unit_price": 39999,
+      "now_min_unit_price": 37999,
+      "avg_unit_price": 0,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 22736,
-    "total": 341040
+    "last_page": 22739,
+    "total": 341081
   }
 }

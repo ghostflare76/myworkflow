@@ -22,7 +22,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 25997,
+      "now_min_unit_price": 25599,
       "avg_unit_price": 25000,
       "favorite": false
     },
@@ -185,21 +185,21 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1051,
-      "server_name": "거스틴",
-      "world": true,
+      "server_id": 24,
+      "server_name": "카인04",
+      "world": false,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
       "now_min_unit_price": 16000,
-      "avg_unit_price": 0,
+      "avg_unit_price": 18000,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 24719,
-    "total": 370775
+    "last_page": 24716,
+    "total": 370727
   }
 }

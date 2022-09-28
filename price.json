@@ -61,7 +61,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 24000,
+      "now_min_unit_price": 23900,
       "avg_unit_price": 25799.5,
       "favorite": false
     },
@@ -120,6 +120,19 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1051,
+      "server_name": "거스틴",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 26000,
+      "avg_unit_price": 25000,
+      "favorite": false
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1001,
       "server_name": "바츠",
       "world": true,
@@ -128,19 +141,6 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 26500,
       "avg_unit_price": 28000,
-      "favorite": false
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1051,
-      "server_name": "거스틴",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 26666,
-      "avg_unit_price": 25000,
       "favorite": false
     },
     {
@@ -183,23 +183,23 @@
       "favorite": false
     },
     {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
-      "server_id": 1031,
-      "server_name": "리오나",
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1121,
+      "server_name": "오필리아",
       "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 37000,
-      "avg_unit_price": 35000,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 28000,
+      "avg_unit_price": 24999.5,
       "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 24556,
-    "total": 368336
+    "last_page": 24545,
+    "total": 368169
   }
 }

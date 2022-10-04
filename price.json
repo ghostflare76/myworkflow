@@ -183,15 +183,15 @@
       "favorite": false
     },
     {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
       "server_id": 1101,
       "server_name": "에르휘나",
       "world": true,
-      "enchant_level": 5,
+      "enchant_level": 0,
       "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 14000,
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 32000,
       "avg_unit_price": 0,
       "favorite": false
     }
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 24756,
-    "total": 371340
+    "last_page": 24755,
+    "total": 371324
   }
 }

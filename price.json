@@ -29,6 +29,19 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1091,
+      "server_name": "테온",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 25000,
+      "avg_unit_price": 24499.5,
+      "favorite": false
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1021,
       "server_name": "카인",
       "world": true,
@@ -50,6 +63,19 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 26000,
       "avg_unit_price": 24800,
+      "favorite": false
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1051,
+      "server_name": "거스틴",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 26000,
+      "avg_unit_price": 25475,
       "favorite": false
     },
     {
@@ -168,38 +194,12 @@
       "now_min_unit_price": 14000,
       "avg_unit_price": 0,
       "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 1111,
-      "server_name": "아이린",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 15500,
-      "avg_unit_price": 15500,
-      "favorite": false
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 1111,
-      "server_name": "아이린",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 16500,
-      "avg_unit_price": 17000,
-      "favorite": false
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 24877,
-    "total": 373143
+    "last_page": 24871,
+    "total": 373055
   }
 }

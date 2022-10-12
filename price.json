@@ -113,7 +113,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 29999,
+      "now_min_unit_price": 28000,
       "avg_unit_price": 26800,
       "favorite": false
     },
@@ -126,7 +126,7 @@
       "enchant_level": 0,
       "grade": "legendary",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 40000,
+      "now_min_unit_price": 38000,
       "avg_unit_price": 0,
       "favorite": false
     },
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 25267,
-    "total": 378993
+    "last_page": 25195,
+    "total": 377925
   }
 }

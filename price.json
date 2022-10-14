@@ -62,7 +62,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 25900,
-      "avg_unit_price": 24300,
+      "avg_unit_price": 25000,
       "favorite": false
     },
     {
@@ -166,7 +166,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 27998,
-      "avg_unit_price": 24500,
+      "avg_unit_price": 24999,
       "favorite": false
     },
     {
@@ -179,7 +179,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 28000,
-      "avg_unit_price": 24001,
+      "avg_unit_price": 24250.5,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 25308,
-    "total": 379606
+    "last_page": 25310,
+    "total": 379644
   }
 }

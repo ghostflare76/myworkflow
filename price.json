@@ -68,8 +68,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1001,
-      "server_name": "바츠",
+      "server_id": 1031,
+      "server_name": "리오나",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
@@ -81,8 +81,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1031,
-      "server_name": "리오나",
+      "server_id": 1001,
+      "server_name": "바츠",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
@@ -139,7 +139,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 27999,
+      "now_min_unit_price": 27599,
       "avg_unit_price": 24999.5,
       "favorite": false
     },
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 25223,
-    "total": 378340
+    "last_page": 25261,
+    "total": 378906
   }
 }

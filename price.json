@@ -49,7 +49,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 25999,
-      "avg_unit_price": 24999,
+      "avg_unit_price": 24500,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 25492,
-    "total": 382377
+    "last_page": 25501,
+    "total": 382511
   }
 }

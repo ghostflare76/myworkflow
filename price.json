@@ -62,7 +62,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 18999,
-      "avg_unit_price": 21200,
+      "avg_unit_price": 21000,
       "favorite": false
     },
     {
@@ -75,7 +75,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 18999,
-      "avg_unit_price": 22249.5,
+      "avg_unit_price": 19500,
       "favorite": false
     },
     {
@@ -88,7 +88,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 19200,
-      "avg_unit_price": 19500,
+      "avg_unit_price": 19300,
       "favorite": false
     },
     {
@@ -127,7 +127,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 20000,
-      "avg_unit_price": 19999,
+      "avg_unit_price": 19900,
       "favorite": false
     },
     {
@@ -153,7 +153,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 20555,
-      "avg_unit_price": 19500,
+      "avg_unit_price": 20000,
       "favorite": false
     },
     {
@@ -166,7 +166,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 20900,
-      "avg_unit_price": 22000,
+      "avg_unit_price": 21999.5,
       "favorite": false
     },
     {
@@ -179,7 +179,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 20999,
-      "avg_unit_price": 19500,
+      "avg_unit_price": 18750,
       "favorite": false
     },
     {
@@ -199,7 +199,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28010,
-    "total": 420143
+    "last_page": 28019,
+    "total": 420281
   }
 }

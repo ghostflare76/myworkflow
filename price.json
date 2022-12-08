@@ -172,8 +172,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 147,
-      "server_name": "안타라스07",
+      "server_id": 97,
+      "server_name": "테온07",
       "world": false,
       "enchant_level": 0,
       "grade": "mythic",
@@ -185,8 +185,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 97,
-      "server_name": "테온07",
+      "server_id": 147,
+      "server_name": "안타라스07",
       "world": false,
       "enchant_level": 0,
       "grade": "mythic",

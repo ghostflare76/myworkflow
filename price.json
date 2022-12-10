@@ -82,7 +82,7 @@
       "now_min_unit_price": 17500,
       "avg_unit_price": 18400,
       "favorite": false,
-      "quantity": 9
+      "quantity": 8
     },
     {
       "item_id": 600711007,
@@ -178,7 +178,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 18999,
-      "avg_unit_price": 19000,
+      "avg_unit_price": 18995,
       "favorite": false,
       "quantity": 11
     },
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27694,
-    "total": 415397
+    "last_page": 27706,
+    "total": 415586
   }
 }

@@ -40,21 +40,21 @@
       "now_min_unit_price": 16500,
       "avg_unit_price": 21500,
       "favorite": false,
-      "quantity": 7
+      "quantity": 2
     },
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1091,
-      "server_name": "테온",
+      "server_id": 1041,
+      "server_name": "에리카",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 17000,
-      "avg_unit_price": 18400,
+      "avg_unit_price": 20000,
       "favorite": false,
-      "quantity": 8
+      "quantity": 4
     },
     {
       "item_id": 600711007,
@@ -65,10 +65,24 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 17400,
+      "now_min_unit_price": 17450,
       "avg_unit_price": 19900,
       "favorite": false,
-      "quantity": 14
+      "quantity": 9
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1091,
+      "server_name": "테온",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 17800,
+      "avg_unit_price": 18400,
+      "favorite": false,
+      "quantity": 7
     },
     {
       "item_id": 600711007,
@@ -82,21 +96,7 @@
       "now_min_unit_price": 17900,
       "avg_unit_price": 19000,
       "favorite": false,
-      "quantity": 10
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1041,
-      "server_name": "에리카",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 17998,
-      "avg_unit_price": 20000,
-      "favorite": false,
-      "quantity": 4
+      "quantity": 8
     },
     {
       "item_id": 600711007,
@@ -138,7 +138,7 @@
       "now_min_unit_price": 18500,
       "avg_unit_price": 18995,
       "favorite": false,
-      "quantity": 9
+      "quantity": 7
     },
     {
       "item_id": 600711007,
@@ -194,7 +194,7 @@
       "now_min_unit_price": 19500,
       "avg_unit_price": 21474.5,
       "favorite": false,
-      "quantity": 8
+      "quantity": 7
     },
     {
       "item_id": 600711007,
@@ -208,13 +208,13 @@
       "now_min_unit_price": 20000,
       "avg_unit_price": 18700,
       "favorite": false,
-      "quantity": 6
+      "quantity": 5
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27594,
-    "total": 413896
+    "last_page": 27545,
+    "total": 413162
   }
 }

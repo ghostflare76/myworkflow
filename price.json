@@ -9,10 +9,10 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 15800,
+      "now_min_unit_price": 16500,
       "avg_unit_price": 21500,
       "favorite": false,
-      "quantity": 10
+      "quantity": 7
     },
     {
       "item_id": 600711007,
@@ -54,7 +54,7 @@
       "now_min_unit_price": 17444,
       "avg_unit_price": 19900,
       "favorite": false,
-      "quantity": 10
+      "quantity": 11
     },
     {
       "item_id": 600711007,
@@ -82,7 +82,7 @@
       "now_min_unit_price": 17800,
       "avg_unit_price": 20000,
       "favorite": false,
-      "quantity": 13
+      "quantity": 12
     },
     {
       "item_id": 600711007,
@@ -194,7 +194,7 @@
       "now_min_unit_price": 19500,
       "avg_unit_price": 21474.5,
       "favorite": false,
-      "quantity": 8
+      "quantity": 9
     },
     {
       "item_id": 600711007,
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27703,
-    "total": 415532
+    "last_page": 27691,
+    "total": 415359
   }
 }

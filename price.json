@@ -10,7 +10,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 16750,
-      "avg_unit_price": 19950,
+      "avg_unit_price": 19900,
       "favorite": false,
       "quantity": 4
     },
@@ -52,7 +52,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 17800,
-      "avg_unit_price": 21494.5,
+      "avg_unit_price": 21000,
       "favorite": false,
       "quantity": 12
     },
@@ -80,7 +80,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 17900,
-      "avg_unit_price": 19900,
+      "avg_unit_price": 18750,
       "favorite": false,
       "quantity": 3
     },
@@ -94,7 +94,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 17999,
-      "avg_unit_price": 17400,
+      "avg_unit_price": 16833.3333,
       "favorite": false,
       "quantity": 4
     },
@@ -136,7 +136,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 18000,
-      "avg_unit_price": 19500,
+      "avg_unit_price": 18000,
       "favorite": false,
       "quantity": 18
     },
@@ -192,7 +192,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 19900,
-      "avg_unit_price": 18700,
+      "avg_unit_price": 18800,
       "favorite": false,
       "quantity": 6
     },
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27438,
-    "total": 411560
+    "last_page": 27439,
+    "total": 411581
   }
 }

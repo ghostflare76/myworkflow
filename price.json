@@ -12,7 +12,7 @@
       "now_min_unit_price": 16666.6666,
       "avg_unit_price": 17400,
       "favorite": false,
-      "quantity": 10
+      "quantity": 11
     },
     {
       "item_id": 600711007,
@@ -138,7 +138,7 @@
       "now_min_unit_price": 18500,
       "avg_unit_price": 20000,
       "favorite": false,
-      "quantity": 20
+      "quantity": 21
     },
     {
       "item_id": 600711007,
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27588,
-    "total": 413817
+    "last_page": 27585,
+    "total": 413761
   }
 }

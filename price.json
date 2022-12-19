@@ -40,7 +40,7 @@
       "now_min_unit_price": 16500,
       "avg_unit_price": 16833.3333,
       "favorite": false,
-      "quantity": 8
+      "quantity": 7
     },
     {
       "item_id": 600711007,
@@ -51,10 +51,24 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 16800,
+      "now_min_unit_price": 16700,
       "avg_unit_price": 18995,
       "favorite": false,
       "quantity": 10
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1031,
+      "server_name": "리오나",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 16890,
+      "avg_unit_price": 19200,
+      "favorite": false,
+      "quantity": 5
     },
     {
       "item_id": 600711007,
@@ -69,20 +83,6 @@
       "avg_unit_price": 18500,
       "favorite": false,
       "quantity": 6
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 16900,
-      "avg_unit_price": 19200,
-      "favorite": false,
-      "quantity": 4
     },
     {
       "item_id": 600711007,
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28347,
-    "total": 425198
+    "last_page": 28344,
+    "total": 425157
   }
 }

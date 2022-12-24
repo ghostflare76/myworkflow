@@ -12,7 +12,7 @@
       "now_min_unit_price": 15000,
       "avg_unit_price": 18990,
       "favorite": false,
-      "quantity": 11
+      "quantity": 10
     },
     {
       "item_id": 600711007,
@@ -121,10 +121,10 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 16799,
+      "now_min_unit_price": 16700,
       "avg_unit_price": 18475,
       "favorite": false,
-      "quantity": 5
+      "quantity": 6
     },
     {
       "item_id": 600711007,
@@ -138,7 +138,7 @@
       "now_min_unit_price": 16888,
       "avg_unit_price": 17000,
       "favorite": false,
-      "quantity": 12
+      "quantity": 13
     },
     {
       "item_id": 600711007,
@@ -153,20 +153,6 @@
       "avg_unit_price": 17999,
       "favorite": false,
       "quantity": 2
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 102,
-      "server_name": "에르휘나02",
-      "world": false,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 17777,
-      "avg_unit_price": 0,
-      "favorite": false,
-      "quantity": 1
     },
     {
       "item_id": 600711007,
@@ -209,12 +195,26 @@
       "avg_unit_price": 15000,
       "favorite": false,
       "quantity": 2
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1131,
+      "server_name": "바이움",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 19999,
+      "avg_unit_price": 19500,
+      "favorite": false,
+      "quantity": 2
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28086,
-    "total": 421288
+    "last_page": 28094,
+    "total": 421402
   }
 }

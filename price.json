@@ -108,7 +108,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 16998,
-      "avg_unit_price": 17000,
+      "avg_unit_price": 16999,
       "favorite": false,
       "quantity": 7
     },
@@ -136,7 +136,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 17200,
-      "avg_unit_price": 17900,
+      "avg_unit_price": 17850,
       "favorite": false,
       "quantity": 2
     },
@@ -178,7 +178,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 18300,
-      "avg_unit_price": 18250,
+      "avg_unit_price": 18000,
       "favorite": false,
       "quantity": 4
     },
@@ -192,7 +192,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 18887,
-      "avg_unit_price": 15000,
+      "avg_unit_price": 14500,
       "favorite": false,
       "quantity": 2
     },
@@ -206,7 +206,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 18999,
-      "avg_unit_price": 19999,
+      "avg_unit_price": 19500,
       "favorite": false,
       "quantity": 3
     }
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28199,
-    "total": 422984
+    "last_page": 28198,
+    "total": 422962
   }
 }

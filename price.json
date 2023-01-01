@@ -12,7 +12,7 @@
       "now_min_unit_price": 14000,
       "avg_unit_price": 17000,
       "favorite": false,
-      "quantity": 20
+      "quantity": 19
     },
     {
       "item_id": 600711007,
@@ -79,10 +79,10 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 14900,
+      "now_min_unit_price": 15000,
       "avg_unit_price": 17900,
       "favorite": false,
-      "quantity": 6
+      "quantity": 5
     },
     {
       "item_id": 600711007,
@@ -157,20 +157,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 16500,
-      "avg_unit_price": 19100,
-      "favorite": false,
-      "quantity": 5
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1121,
       "server_name": "오필리아",
       "world": true,
@@ -185,6 +171,20 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1031,
+      "server_name": "리오나",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 16500,
+      "avg_unit_price": 19100,
+      "favorite": false,
+      "quantity": 5
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1051,
       "server_name": "거스틴",
       "world": true,
@@ -194,7 +194,7 @@
       "now_min_unit_price": 17950,
       "avg_unit_price": 17400,
       "favorite": false,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "item_id": 600711007,
@@ -208,13 +208,13 @@
       "now_min_unit_price": 18500,
       "avg_unit_price": 18000,
       "favorite": false,
-      "quantity": 8
+      "quantity": 9
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27981,
-    "total": 419710
+    "last_page": 27953,
+    "total": 419285
   }
 }

@@ -54,7 +54,7 @@
       "now_min_unit_price": 15000,
       "avg_unit_price": 15750,
       "favorite": false,
-      "quantity": 5
+      "quantity": 6
     },
     {
       "item_id": 600711007,
@@ -82,7 +82,7 @@
       "now_min_unit_price": 15000,
       "avg_unit_price": 14700,
       "favorite": false,
-      "quantity": 4
+      "quantity": 5
     },
     {
       "item_id": 600711007,
@@ -96,7 +96,7 @@
       "now_min_unit_price": 15000,
       "avg_unit_price": 16400,
       "favorite": false,
-      "quantity": 13
+      "quantity": 14
     },
     {
       "item_id": 600711007,
@@ -110,7 +110,7 @@
       "now_min_unit_price": 15500,
       "avg_unit_price": 16887.5,
       "favorite": false,
-      "quantity": 10
+      "quantity": 9
     },
     {
       "item_id": 600711007,
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28181,
-    "total": 422715
+    "last_page": 28165,
+    "total": 422469
   }
 }

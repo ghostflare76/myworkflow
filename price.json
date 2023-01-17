@@ -3,6 +3,20 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1141,
+      "server_name": "안타라스",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 14000,
+      "avg_unit_price": 13850,
+      "favorite": false,
+      "quantity": 3
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1131,
       "server_name": "바이움",
       "world": true,
@@ -12,7 +26,7 @@
       "now_min_unit_price": 15300,
       "avg_unit_price": 15300,
       "favorite": false,
-      "quantity": 5
+      "quantity": 3
     },
     {
       "item_id": 600711007,
@@ -26,7 +40,7 @@
       "now_min_unit_price": 15400,
       "avg_unit_price": 15500,
       "favorite": false,
-      "quantity": 10
+      "quantity": 8
     },
     {
       "item_id": 600711007,
@@ -45,20 +59,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 15500,
-      "avg_unit_price": 13850,
-      "favorite": false,
-      "quantity": 3
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1101,
       "server_name": "에르휘나",
       "world": true,
@@ -69,20 +69,6 @@
       "avg_unit_price": 15000,
       "favorite": false,
       "quantity": 5
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1121,
-      "server_name": "오필리아",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 15750,
-      "avg_unit_price": 15300,
-      "favorite": false,
-      "quantity": 3
     },
     {
       "item_id": 600711007,
@@ -110,20 +96,6 @@
       "now_min_unit_price": 16000,
       "avg_unit_price": 14900,
       "favorite": false,
-      "quantity": 3
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1081,
-      "server_name": "드비안느",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 16000,
-      "avg_unit_price": 15000,
-      "favorite": false,
       "quantity": 2
     },
     {
@@ -137,6 +109,20 @@
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 16000,
       "avg_unit_price": 15000,
+      "favorite": false,
+      "quantity": 0
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1121,
+      "server_name": "오필리아",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 16200,
+      "avg_unit_price": 15300,
       "favorite": false,
       "quantity": 1
     },
@@ -197,6 +183,20 @@
       "quantity": 0
     },
     {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1081,
+      "server_name": "드비안느",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 22500,
+      "avg_unit_price": 15000,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
       "server_id": 1091,
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27411,
-    "total": 411160
+    "last_page": 27323,
+    "total": 409843
   }
 }

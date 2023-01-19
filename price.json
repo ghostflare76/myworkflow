@@ -208,13 +208,13 @@
       "now_min_unit_price": 16000,
       "avg_unit_price": 16000,
       "favorite": false,
-      "quantity": 2
+      "quantity": 3
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 27381,
-    "total": 410710
+    "last_page": 27400,
+    "total": 410998
   }
 }

@@ -31,20 +31,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1061,
-      "server_name": "카스티엔",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 15000,
-      "avg_unit_price": 15995,
-      "favorite": false,
-      "quantity": 1
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1031,
       "server_name": "리오나",
       "world": true,
@@ -66,7 +52,7 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 16000,
-      "avg_unit_price": 15000,
+      "avg_unit_price": 15100,
       "favorite": false,
       "quantity": 4
     },
@@ -80,7 +66,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 16333,
-      "avg_unit_price": 14750,
+      "avg_unit_price": 15000,
       "favorite": false,
       "quantity": 2
     },
@@ -111,6 +97,20 @@
       "avg_unit_price": 17894,
       "favorite": false,
       "quantity": 6
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1131,
+      "server_name": "바이움",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 17000,
+      "avg_unit_price": 15400,
+      "favorite": false,
+      "quantity": 1
     },
     {
       "item_id": 600711007,
@@ -150,9 +150,9 @@
       "grade": "mythic",
       "image": "https://wstatic-cdn.plaync.com/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 19000,
-      "avg_unit_price": 14500,
+      "avg_unit_price": 14699,
       "favorite": false,
-      "quantity": 2
+      "quantity": 1
     },
     {
       "item_id": 600711007,
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28096,
-    "total": 421431
+    "last_page": 28048,
+    "total": 420713
   }
 }

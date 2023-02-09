@@ -1,6 +1,20 @@
 {
   "contents": [
     {
+      "item_id": 101110001,
+      "item_name": "린드비오르 스팅거",
+      "server_id": 108,
+      "server_name": "에르휘나08",
+      "world": false,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Rapier_G1_001.png",
+      "now_min_unit_price": 1700000,
+      "avg_unit_price": 0,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
       "server_id": 10,
@@ -195,26 +209,12 @@
       "avg_unit_price": 17444,
       "favorite": false,
       "quantity": 2
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 134,
-      "server_name": "바이움04",
-      "world": false,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 50000,
-      "avg_unit_price": 0,
-      "favorite": false,
-      "quantity": 1
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28194,
-    "total": 422897
+    "last_page": 28189,
+    "total": 422831
   }
 }

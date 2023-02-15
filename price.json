@@ -66,7 +66,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 19800,
-      "avg_unit_price": 18700,
+      "avg_unit_price": 18500,
       "favorite": false,
       "quantity": 1
     },
@@ -80,7 +80,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 19999,
-      "avg_unit_price": 14249,
+      "avg_unit_price": 14500,
       "favorite": false,
       "quantity": 2
     },
@@ -94,7 +94,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 20000,
-      "avg_unit_price": 15250,
+      "avg_unit_price": 15750,
       "favorite": false,
       "quantity": 2
     },
@@ -122,7 +122,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 23000,
-      "avg_unit_price": 16500,
+      "avg_unit_price": 18500,
       "favorite": false,
       "quantity": 3
     },
@@ -136,7 +136,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 24000,
-      "avg_unit_price": 17900,
+      "avg_unit_price": 17919,
       "favorite": false,
       "quantity": 2
     },
@@ -150,7 +150,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 24000,
-      "avg_unit_price": 15555,
+      "avg_unit_price": 15999,
       "favorite": false,
       "quantity": 6
     },
@@ -178,7 +178,7 @@
       "grade": "legendary",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
       "now_min_unit_price": 20000,
-      "avg_unit_price": 0,
+      "avg_unit_price": 22000,
       "favorite": false,
       "quantity": 2
     },
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28118,
-    "total": 421770
+    "last_page": 28114,
+    "total": 421700
   }
 }

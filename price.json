@@ -26,7 +26,7 @@
       "now_min_unit_price": 18899,
       "avg_unit_price": 15000,
       "favorite": false,
-      "quantity": 3
+      "quantity": 2
     },
     {
       "item_id": 600711007,
@@ -171,6 +171,20 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
+      "server_id": 1131,
+      "server_name": "바이움",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 24000,
+      "avg_unit_price": 0,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
       "server_id": 1091,
       "server_name": "테온",
       "world": true,
@@ -195,26 +209,12 @@
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
-      "server_id": 1031,
-      "server_name": "리오나",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 9999,
-      "avg_unit_price": 7777,
-      "favorite": false,
-      "quantity": 1
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28471,
-    "total": 427052
+    "last_page": 28467,
+    "total": 426997
   }
 }

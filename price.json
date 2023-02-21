@@ -143,6 +143,20 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
+      "server_id": 1101,
+      "server_name": "에르휘나",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 20000,
+      "avg_unit_price": 0,
+      "favorite": false,
+      "quantity": 2
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
       "server_id": 1011,
       "server_name": "지그하르트",
       "world": true,
@@ -153,20 +167,6 @@
       "avg_unit_price": 25000,
       "favorite": false,
       "quantity": 1
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
-      "server_id": 1101,
-      "server_name": "에르휘나",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 22000,
-      "avg_unit_price": 0,
-      "favorite": false,
-      "quantity": 2
     },
     {
       "item_id": 100120001,
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28477,
-    "total": 427144
+    "last_page": 28482,
+    "total": 427221
   }
 }

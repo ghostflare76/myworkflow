@@ -24,7 +24,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 16000,
-      "avg_unit_price": 17749.5,
+      "avg_unit_price": 18500,
       "favorite": false,
       "quantity": 2
     },
@@ -80,7 +80,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 19000,
-      "avg_unit_price": 15500,
+      "avg_unit_price": 16000,
       "favorite": false,
       "quantity": 4
     },
@@ -108,7 +108,7 @@
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 24750,
-      "avg_unit_price": 16950,
+      "avg_unit_price": 17000,
       "favorite": false,
       "quantity": 1
     },
@@ -171,20 +171,6 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1061,
-      "server_name": "카스티엔",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 23000,
-      "avg_unit_price": 22000,
-      "favorite": false,
-      "quantity": 1
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
       "server_id": 1131,
       "server_name": "바이움",
       "world": true,
@@ -193,6 +179,20 @@
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
       "now_min_unit_price": 23000,
       "avg_unit_price": 0,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1061,
+      "server_name": "카스티엔",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 23000,
+      "avg_unit_price": 22000,
       "favorite": false,
       "quantity": 1
     },
@@ -215,6 +215,6 @@
     "page": 1,
     "size": 15,
     "last_page": 29023,
-    "total": 435344
+    "total": 435341
   }
 }

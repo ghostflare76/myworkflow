@@ -17,20 +17,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 15400,
-      "avg_unit_price": 15149.5,
-      "favorite": false,
-      "quantity": 3
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1021,
       "server_name": "카인",
       "world": true,
@@ -124,21 +110,7 @@
       "now_min_unit_price": 19000,
       "avg_unit_price": 15500,
       "favorite": false,
-      "quantity": 3
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1071,
-      "server_name": "아리아",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 19999,
-      "avg_unit_price": 16950,
-      "favorite": false,
-      "quantity": 2
+      "quantity": 4
     },
     {
       "item_id": 600711007,
@@ -151,6 +123,20 @@
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
       "now_min_unit_price": 20000,
       "avg_unit_price": 20000,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1071,
+      "server_name": "아리아",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 24750,
+      "avg_unit_price": 16950,
       "favorite": false,
       "quantity": 1
     },
@@ -209,12 +195,26 @@
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
+      "server_id": 1061,
+      "server_name": "카스티엔",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 23000,
+      "avg_unit_price": 22000,
+      "favorite": false,
+      "quantity": 1
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 29020,
-    "total": 435293
+    "last_page": 29026,
+    "total": 435378
   }
 }

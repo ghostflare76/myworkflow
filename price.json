@@ -1,11 +1,11 @@
 {
   "result": {
-    "timestamp": 1678221128347,
+    "timestamp": 1678222874006,
     "path": "/search/l2m/items",
     "status": 500,
     "error": "Internal Server Error",
     "message": "temporarily unavailable",
-    "requestId": "ea25b0d9-215556",
+    "requestId": "c0943909-219328",
     "exception": "org.springframework.web.reactive.function.client.WebClientResponseException$InternalServerError"
   }
 }

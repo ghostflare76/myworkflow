@@ -152,7 +152,7 @@
       "now_min_unit_price": 27000,
       "avg_unit_price": 20000,
       "favorite": false,
-      "quantity": 2
+      "quantity": 3
     },
     {
       "item_id": 100120001,
@@ -215,6 +215,6 @@
     "page": 1,
     "size": 15,
     "last_page": 28651,
-    "total": 429757
+    "total": 429761
   }
 }

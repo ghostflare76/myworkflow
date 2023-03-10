@@ -9,10 +9,10 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 24900,
+      "now_min_unit_price": 24000,
       "avg_unit_price": 17800,
       "favorite": false,
-      "quantity": 2
+      "quantity": 3
     },
     {
       "item_id": 600711007,
@@ -51,10 +51,10 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 30000,
+      "now_min_unit_price": 28000,
       "avg_unit_price": 20000,
       "favorite": false,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "item_id": 600711007,
@@ -115,13 +115,13 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1101,
-      "server_name": "에르휘나",
+      "server_id": 1071,
+      "server_name": "아리아",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 18500,
+      "now_min_unit_price": 17800,
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
@@ -129,13 +129,13 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
-      "server_id": 1071,
-      "server_name": "아리아",
+      "server_id": 1101,
+      "server_name": "에르휘나",
       "world": true,
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 19000,
+      "now_min_unit_price": 18500,
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28550,
-    "total": 428245
+    "last_page": 28564,
+    "total": 428452
   }
 }

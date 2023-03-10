@@ -3,20 +3,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1051,
-      "server_name": "거스틴",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 24000,
-      "avg_unit_price": 17800,
-      "favorite": false,
-      "quantity": 4
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 124,
       "server_name": "오필리아04",
       "world": false,
@@ -59,30 +45,16 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1121,
-      "server_name": "오필리아",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 39000,
-      "avg_unit_price": 17250,
-      "favorite": false,
-      "quantity": 1
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1141,
       "server_name": "안타라스",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 39999,
+      "now_min_unit_price": 30000,
       "avg_unit_price": 16777.5,
       "favorite": false,
-      "quantity": 4
+      "quantity": 5
     },
     {
       "item_id": 100120001,
@@ -209,12 +181,40 @@
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 1021,
+      "server_name": "카인",
+      "world": true,
+      "enchant_level": 9,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 35000,
+      "avg_unit_price": 0,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
+      "item_id": 100120003,
+      "item_name": "다이너스티 소드",
+      "server_id": 1001,
+      "server_name": "바츠",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_003.png",
+      "now_min_unit_price": 80000,
+      "avg_unit_price": 0,
+      "favorite": false,
+      "quantity": 1
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28591,
-    "total": 428859
+    "last_page": 28588,
+    "total": 428808
   }
 }

@@ -199,22 +199,22 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1031,
-      "server_name": "리오나",
+      "server_id": 1091,
+      "server_name": "테온",
       "world": true,
-      "enchant_level": 0,
+      "enchant_level": 7,
       "grade": "legendary",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 11000,
+      "now_min_unit_price": 9750,
       "avg_unit_price": 0,
       "favorite": false,
-      "quantity": 1
+      "quantity": 2
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28612,
-    "total": 429177
+    "last_page": 28611,
+    "total": 429162
   }
 }

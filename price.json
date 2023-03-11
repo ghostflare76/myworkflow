@@ -79,10 +79,10 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 29000,
+      "now_min_unit_price": 28900,
       "avg_unit_price": 19000,
       "favorite": false,
-      "quantity": 1
+      "quantity": 2
     },
     {
       "item_id": 600711007,
@@ -149,7 +149,7 @@
       "enchant_level": 7,
       "grade": "legendary",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 22600,
+      "now_min_unit_price": 22200,
       "avg_unit_price": 22000,
       "favorite": false,
       "quantity": 1
@@ -214,7 +214,7 @@
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28630,
-    "total": 429436
+    "last_page": 28612,
+    "total": 429177
   }
 }

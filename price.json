@@ -68,21 +68,7 @@
       "now_min_unit_price": 21999,
       "avg_unit_price": 19688,
       "favorite": false,
-      "quantity": 8
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1011,
-      "server_name": "지그하르트",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 22000,
-      "avg_unit_price": 17500,
-      "favorite": false,
-      "quantity": 1
+      "quantity": 7
     },
     {
       "item_id": 600711007,
@@ -97,6 +83,20 @@
       "avg_unit_price": 18949.5,
       "favorite": false,
       "quantity": 2
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1011,
+      "server_name": "지그하르트",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 22000,
+      "avg_unit_price": 17500,
+      "favorite": false,
+      "quantity": 1
     },
     {
       "item_id": 600711007,
@@ -155,6 +155,20 @@
       "quantity": 1
     },
     {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
+      "server_id": 39,
+      "server_name": "리오나09",
+      "world": false,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 50000,
+      "avg_unit_price": 0,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
       "server_id": 1041,
@@ -195,26 +209,12 @@
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
-      "server_id": 1011,
-      "server_name": "지그하르트",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 25000,
-      "avg_unit_price": 0,
-      "favorite": false,
-      "quantity": 1
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28808,
-    "total": 432113
+    "last_page": 28819,
+    "total": 432285
   }
 }

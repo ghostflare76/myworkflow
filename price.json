@@ -143,6 +143,20 @@
     {
       "item_id": 100120001,
       "item_name": "포가튼 블레이드",
+      "server_id": 1071,
+      "server_name": "아리아",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
+      "now_min_unit_price": 16500,
+      "avg_unit_price": 17000,
+      "favorite": false,
+      "quantity": 1
+    },
+    {
+      "item_id": 100120001,
+      "item_name": "포가튼 블레이드",
       "server_id": 1041,
       "server_name": "에리카",
       "world": true,
@@ -195,26 +209,12 @@
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
-    },
-    {
-      "item_id": 100120001,
-      "item_name": "포가튼 블레이드",
-      "server_id": 1061,
-      "server_name": "카스티엔",
-      "world": true,
-      "enchant_level": 7,
-      "grade": "legendary",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_002.png",
-      "now_min_unit_price": 22200,
-      "avg_unit_price": 0,
-      "favorite": false,
-      "quantity": 1
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
-    "last_page": 28836,
-    "total": 432527
+    "last_page": 28863,
+    "total": 432937
   }
 }

@@ -40,7 +40,7 @@
       "now_min_unit_price": 28000,
       "avg_unit_price": 16000,
       "favorite": false,
-      "quantity": 2
+      "quantity": 1
     },
     {
       "item_id": 600711007,
@@ -79,7 +79,7 @@
       "enchant_level": 0,
       "grade": "mythic",
       "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 32000,
+      "now_min_unit_price": 50000,
       "avg_unit_price": 24000,
       "favorite": false,
       "quantity": 1
@@ -171,20 +171,6 @@
     {
       "item_id": 100120002,
       "item_name": "칼라드볼그",
-      "server_id": 1061,
-      "server_name": "카스티엔",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "legendary",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
-      "now_min_unit_price": 18999,
-      "avg_unit_price": 0,
-      "favorite": false,
-      "quantity": 1
-    },
-    {
-      "item_id": 100120002,
-      "item_name": "칼라드볼그",
       "server_id": 1111,
       "server_name": "아이린",
       "world": true,
@@ -209,13 +195,27 @@
       "avg_unit_price": 0,
       "favorite": false,
       "quantity": 1
+    },
+    {
+      "item_id": 100120002,
+      "item_name": "칼라드볼그",
+      "server_id": 1031,
+      "server_name": "리오나",
+      "world": true,
+      "enchant_level": 7,
+      "grade": "legendary",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_WP_Sword_G2_001.png",
+      "now_min_unit_price": 10500,
+      "avg_unit_price": 9000,
+      "favorite": false,
+      "quantity": 1
     }
   ],
   "pagination": {
     "page": 1,
     "size": 15,
     "last_page": 667,
-    "total": 429833,
+    "total": 429535,
     "limit": 10000
   }
 }

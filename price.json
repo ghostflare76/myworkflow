@@ -3,6 +3,20 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1001,
+      "server_name": "바츠",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 18000,
+      "avg_unit_price": 16000,
+      "favorite": false,
+      "quantity": 2
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1081,
       "server_name": "드비안느",
       "world": true,
@@ -83,20 +97,6 @@
       "avg_unit_price": 18999,
       "favorite": false,
       "quantity": 14
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1001,
-      "server_name": "바츠",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 21000,
-      "avg_unit_price": 16000,
-      "favorite": false,
-      "quantity": 2
     },
     {
       "item_id": 600711007,
@@ -215,7 +215,7 @@
     "page": 1,
     "size": 15,
     "last_page": 667,
-    "total": 427748,
+    "total": 427753,
     "limit": 10000
   }
 }

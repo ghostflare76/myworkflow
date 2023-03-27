@@ -54,7 +54,7 @@
       "now_min_unit_price": 19500,
       "avg_unit_price": 18999,
       "favorite": false,
-      "quantity": 9
+      "quantity": 10
     },
     {
       "item_id": 600711007,
@@ -87,8 +87,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1081,
-      "server_name": "드비안느",
+      "server_id": 1121,
+      "server_name": "오필리아",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
@@ -101,8 +101,8 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1121,
-      "server_name": "오필리아",
+      "server_id": 1081,
+      "server_name": "드비안느",
       "world": true,
       "enchant_level": 0,
       "grade": "mythic",
@@ -215,7 +215,7 @@
     "page": 1,
     "size": 15,
     "last_page": 667,
-    "total": 432492,
+    "total": 432393,
     "limit": 10000
   }
 }

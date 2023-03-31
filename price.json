@@ -3,6 +3,20 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
+      "server_id": 1141,
+      "server_name": "안타라스",
+      "world": true,
+      "enchant_level": 0,
+      "grade": "mythic",
+      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
+      "now_min_unit_price": 16700,
+      "avg_unit_price": 25000,
+      "favorite": false,
+      "quantity": 15
+    },
+    {
+      "item_id": 600711007,
+      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1031,
       "server_name": "리오나",
       "world": true,
@@ -40,7 +54,7 @@
       "now_min_unit_price": 18000,
       "avg_unit_price": 19700,
       "favorite": false,
-      "quantity": 7
+      "quantity": 6
     },
     {
       "item_id": 600711007,
@@ -171,20 +185,6 @@
     {
       "item_id": 600711007,
       "item_name": "제작 아크스톤 (신화)",
-      "server_id": 1141,
-      "server_name": "안타라스",
-      "world": true,
-      "enchant_level": 0,
-      "grade": "mythic",
-      "image": "https://assets.playnccdn.com/gamedata/powerbook/l2m/icon/Icon_128/Item/Icon_Item_misc_craft_prob_add_mythic_01.png",
-      "now_min_unit_price": 21000,
-      "avg_unit_price": 25000,
-      "favorite": false,
-      "quantity": 13
-    },
-    {
-      "item_id": 600711007,
-      "item_name": "제작 아크스톤 (신화)",
       "server_id": 1061,
       "server_name": "카스티엔",
       "world": true,
@@ -215,7 +215,7 @@
     "page": 1,
     "size": 15,
     "last_page": 667,
-    "total": 422985,
+    "total": 423127,
     "limit": 10000
   }
 }
